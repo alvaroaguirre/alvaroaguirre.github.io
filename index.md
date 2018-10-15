@@ -23,7 +23,7 @@ You can find my complete CV [here](https://www.dropbox.com/s/9xs8m1rikbwz24m/CV_
 
 I previously spent a year working at Amazon, based in Madrid. I was a Project Manager for Kindle Direct Publishing and led various projects that involved diving deep into data to solve problems or improve processes. Most of the projects involved a mix of SQL, VBA, Amazon Redshift, HTML, DaraWarehousing. Some of them were:
 * Developed internal tools for making data-driven decisions and negotiating with publishers.
-* Analyzed patterns in data and developed a system to detect fraud and abuse in Kindle Unlimited at a global scale (coolest project but can't talk about any details...)
+* Analyzed patterns in data and developed a system to detect fraud and abuse in Kindle Unlimited at a global scale/
 * Owned Business Intelligence for the 2018 Storyteller Contests in EU (France, Spain, UK, Germany). I aligned and defined the data structure, developed the code that would feed the landing pages and automatically generate weekly reports.
 * Redesigned and built a new system of reporting for Kindle in Spain, the US and Mexico.
 * I also organized several training sessions to teach employees how to dive deep into data. These included a crash course in SQL programming and how to formulate interesting questions for our business units and answer them with data. I developed all the material and taught the courses.
@@ -46,5 +46,5 @@ I also love reading and writing (one of the reasons I ended up working at Kindle
 
 ## Contact me
 
-Feel free to send me an email at: <alvaroaguirre@outlook.com>  
+Feel free to send me an email at: <alvaroaguirre@outlook.com>.  
 You can also find me on [LinkedIn](https://www.linkedin.com/in/alvaro-aguirre/).
