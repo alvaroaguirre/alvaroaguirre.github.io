@@ -1,11 +1,11 @@
 # Alvaro Aguirre
 
 Welcome to my personal webpage. Here you will be able to find information about me and the projects I am working on.
-You can use the following links to navigate through the sections:
+You can use the following links to navigate through the sections:  
 [Who am I?](#who-am-i-and-what-am-i-up-to?) <br/>
 [What have I done before?](#what-have-i-done-before?) <br/>
 [More useful and useless information about me](#useful-and-useless-information) <br/>
-[Contact information](#contact-me) <br/>
+[Contact information](#contact-me)
 
 
 ## Who am I and what am I up to?
@@ -36,7 +36,7 @@ Before Amazon, I worked at a small consulting firm in Madrid doing Econometrics,
 In 2017 I graduated from the Universidad Carlos III de Madrid with a BSc in Economics. I earned the "Premio Extraordinario de Fin de Carrera" for graduating with the best academic record amongst my cohort. [Here](https://www.dropbox.com/s/mguz894hexzxpkp/Premio-madre.jpg?dl=0) is a picture of me receiving the award next to my biggest supporter.
 
 I received a scholarship to be a visiting student at the University of California, Berkeley, during 2015 and 2016. Here I discovered and explored several fascinating fields of economics, in particular, development and behavioral caught my attention. There I found out what coding was and heard the term "machine learning" for the first time, since it was the topic of almost every conversation in the Bay Area. I found it fascinating and am looking forward to learn more about it. 
-Nothing says Berkeley more than a [picture with a bear](https://www.dropbox.com/s/s3ybj9ffmw2c8sb/Photo%2018-04-2016%2C%2008%2039%2025.jpg?dl=0), or [one at the Oracle Arena after watching the GSW destroy another team](https://www.dropbox.com/s/0od0d4nofx8gpvg/Photo%2003-11-2015%2C%2005%2056%2028.jpg?dl=0)!
+Nothing says Berkeley more than a [picture with a bear](https://www.dropbox.com/s/s3ybj9ffmw2c8sb/Photo%2018-04-2016%2C%2008%2039%2025.jpg?dl=0), or [one at the Oracle Arena](https://www.dropbox.com/s/0od0d4nofx8gpvg/Photo%2003-11-2015%2C%2005%2056%2028.jpg?dl=0) after watching the GSW destroy another team!
 
 At Berkeley I was part of the [Latin American Leadership Society (LLS)](https://www.llsberkeley.org/) as the Forum Vice-Chair. We organized two forums on relevant topics for the development of Latin America. One of the forums was about the potential impact of the TPP on Latin America, and I was in charge of providing a crash course in International Trade as an opening, a bit of pressure since my International Trade Professor was an assistant and speaker at the Forum. [Here](https://www.dropbox.com/s/g4ghid4xq3yrsoy/lecture%20international%20trade.png?dl=0) is a blurry picture of the talk. [This](https://www.dropbox.com/s/5wdqsylqiz0zjbq/Photo%2019-10-2015%2C%2004%2022%2005.jpg?dl=0) is a picture with the amazing group of people that made LLS happen.
 
@@ -46,5 +46,5 @@ I also love reading and writing (one of the reasons I ended up working at Kindle
 
 ## Contact me
 
-Feel free to send me an email at: <alvaroaguirre@outlook.com>
+Feel free to send me an email at: <alvaroaguirre@outlook.com>  
 You can also find me on [LinkedIn](https://www.linkedin.com/in/alvaro-aguirre/).
