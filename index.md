@@ -2,10 +2,10 @@
 
 Welcome to my personal webpage. Here you will be able to find information about me and the projects I am working on.
 You can use the following links to navigate through the sections:
-[Who am I?](#who-am-i-and-what-am-i-up-to?)
-[What have I done before?](#what-have-i-done-before?)
-[More useful and useless information about me](#useful-and-useless-information)
-[Contact information](#contact-me)
+[Who am I?](#who-am-i-and-what-am-i-up-to?) <br/>
+[What have I done before?](#what-have-i-done-before?) <br/>
+[More useful and useless information about me](#useful-and-useless-information) <br/>
+[Contact information](#contact-me) <br/>
 
 
 ## Who am I and what am I up to?
