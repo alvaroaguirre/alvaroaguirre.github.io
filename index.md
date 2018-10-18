@@ -1,6 +1,6 @@
 # Alvaro Aguirre
 
-Welcome to my personal webpage. Here you will be able to find information about me and the projects I am working on.
+Welcome to my personal webpage. Here you will be able to find information about me.
 You can use the following links to navigate through the sections:  
 [Who am I?](#who-am-i-and-what-am-i-up-to?) <br/>
 [What have I done before?](#what-have-i-done-before?) <br/>
