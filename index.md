@@ -16,7 +16,9 @@ I am a Graduate student at the LSE pursuing a M.Sc. in Econometrics and Mathemat
 * Learning more math.
 * Exploring the world.
 
-In particular, I am following: one course from UC Berkeley's Computer Science Department, one course from UC Berkeley's Data Science Department, two courses from LSE's Mathematics Department, one course from LSE's Statistics Department, and UC Berkeley's math bootcamp for the Economics PhD. 
+In particular, I am taking the following courses: 
+
+One course from UC Berkeley's Computer Science Department, two courses from UC Berkeley's Data Science Department, two courses from LSE's Mathematics Department, one course from LSE's Statistics Department, and UC Berkeley's math bootcamp for the Economics PhD. 
 
 ## What have I done before?
 
