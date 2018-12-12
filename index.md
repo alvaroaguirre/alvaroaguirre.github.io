@@ -13,12 +13,14 @@ You can use the following links to navigate through the sections:
 I am a Graduate student at the LSE pursuing a M.Sc. in Econometrics and Mathematical Economics (more info about my program [here](http://www.lse.ac.uk/study-at-lse/Graduate/Degree-programmes-2019/MSc-Econometrics-and-Mathematical-Economics)). Currently, I am taking a year off my studies because of health/personal reasons. During this time I am:
 
 * Improving my coding skills (Python, R, MATLAB).
-* Learning more math.
+* Learning more math and statistics.
 * Exploring the world.
 
 In particular, I am taking the following courses: 
 
 One course from UC Berkeley's Computer Science Department, two courses from UC Berkeley's Data Science Department, two courses from LSE's Mathematics Department, one course from LSE's Statistics Department, and UC Berkeley's math bootcamp for the Economics PhD. 
+
+I am also using this time to read several textbooks such as "Introduction to Statistical Learning" by James, Witten, Hastie and Tibshirani, "Deep Learning" by Goodfellow, "Recursive Macro Theory" by Ljungqvist and Sargent, among others.
 
 ## What have I done before?
 
