@@ -28,7 +28,7 @@ You can find my complete CV [here](https://www.dropbox.com/s/9xs8m1rikbwz24m/CV_
 
 I previously spent a year working at Amazon, based in Madrid. I was a Project Manager for Kindle Direct Publishing and led various projects that involved diving deep into data to solve problems or improve processes. Most of the projects used a mix of SQL, VBA, Amazon Redshift, HTML, DaraWarehousing. Some of them were:
 * Developed internal tools for making data-driven decisions and negotiating with publishers.
-* Analyzed patterns in data and developed a system to detect fraud and abuse in Kindle Unlimited at a global scale (received an EU-wide recognition for the big impact of this project).
+* Analyzed patterns in data and developed a system to detect fraud and abuse in Kindle Unlimited at a global scale (received an EU-wide recognition for the big impact of this project, cut global costs in ~$10M per year, algorithm adopted by BI engineers for regular quality controls).
 * Owned Business Intelligence for the 2018 Storyteller Contests in EU (France, Spain, UK, Germany). I aligned and defined the data structure, developed the code that would feed the landing pages and automatically generate weekly reports.
 * Used data to understand reading behavior.
 * Redesigned and built a new system of reporting for Kindle in Spain, the US and Mexico.
@@ -39,7 +39,7 @@ Before Amazon, I worked at a small consulting firm in Madrid doing Econometrics,
 
 ## Useful and useless information
 
-In 2017 I graduated from the Universidad Carlos III de Madrid with a BSc in Economics. I earned the "Premio Extraordinario de Fin de Carrera" for graduating with the best academic record amongst my cohort. [Here](https://www.dropbox.com/s/mguz894hexzxpkp/Premio-madre.jpg?dl=0) is a picture of me receiving the award next to my biggest supporter.
+In 2017 I graduated from the Universidad Carlos III de Madrid with a BSc in Economics. I earned the "Premio Extraordinario de Fin de Carrera" for graduating with the best academic record amongst my cohort. [Here](https://www.dropbox.com/s/mguz894hexzxpkp/Premio-madre.jpg?dl=0) is a picture of me receiving the award next to my biggest supporter (my mom!).
 
 I received a scholarship to be a visiting student at the University of California, Berkeley, during 2015 and 2016. Here I discovered and explored several fascinating fields of economics, in particular, development and behavioral caught my attention. There I found out what coding was and heard the term "machine learning" for the first time, since it was the topic of almost every conversation in the Bay Area. I found it extremely interesting and am looking forward to learn more about it. 
 Nothing says Berkeley more than a [picture with a bear](https://www.dropbox.com/s/s3ybj9ffmw2c8sb/Photo%2018-04-2016%2C%2008%2039%2025.jpg?dl=0), or [one at the Oracle Arena](https://www.dropbox.com/s/0od0d4nofx8gpvg/Photo%2003-11-2015%2C%2005%2056%2028.jpg?dl=0) after watching the GSW destroy another team!
