@@ -22,6 +22,8 @@ One course from UC Berkeley's Computer Science Department, two courses from UC B
 
 I am also using this time to read several textbooks such as "Introduction to Statistical Learning" by James, Witten, Hastie and Tibshirani, "Deep Learning" by Goodfellow, "Recursive Macro Theory" by Ljungqvist and Sargent, among others.
 
+After graduating from LSE I will join Bain & Company as an Associate Consultant.
+
 ## What have I done before?
 
 You can find my complete CV [here](https://www.dropbox.com/s/9xs8m1rikbwz24m/CV_sep18.pdf?dl=0). 
