@@ -18,7 +18,7 @@ I am a Graduate student at the LSE pursuing a M.Sc. in Econometrics and Mathemat
 
 In particular, I am taking the following courses: 
 
-One course from UC Berkeley's Computer Science Department, two courses from UC Berkeley's Data Science Department, two courses from LSE's Mathematics Department, one course from LSE's Statistics Department, and UC Berkeley's math bootcamp for the Economics PhD. 
+One course from UC Berkeley's Computer Science Department, two courses from UC Berkeley's Data Science Department, two courses from LSE's Mathematics Department, one course from LSE's Statistics Department, UC Berkeley's math bootcamp for the Economics PhD, and Harvard's first-year PhD course in Macroeconomics. 
 
 I am also using this time to read several textbooks such as "Introduction to Statistical Learning" by James, Witten, Hastie and Tibshirani, "Deep Learning" by Goodfellow, "Recursive Macro Theory" by Ljungqvist and Sargent, among others.
 
