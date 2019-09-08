@@ -10,23 +10,22 @@ You can use the following links to navigate through the sections:
 
 ## Who am I and what am I up to?
 
-I am a Graduate student at the LSE pursuing a M.Sc. in Econometrics and Mathematical Economics (more info about my program [here](http://www.lse.ac.uk/study-at-lse/Graduate/Degree-programmes-2019/MSc-Econometrics-and-Mathematical-Economics)). Currently, I am taking a year off my studies because of health/personal reasons. During this time I am:
+I am a Graduate student at the LSE pursuing a M.Sc. in Econometrics and Mathematical Economics (more info about my program [here](http://www.lse.ac.uk/study-at-lse/Graduate/Degree-programmes-2019/MSc-Econometrics-and-Mathematical-Economics)). My main academic areas of interest are microeconomic theory, behavioral economics and bounded rationality. I hold a BSc in Economics by the Universidad Carlos III de Madrid (graduated summa cum laude), and spent a year as a visiting student at UC Berkeley. After graduating from LSE, I will join Bain & Company as an Associate Consultant in the Madrid office.
 
-* Improving my coding skills (Python, R, MATLAB).
-* Learning more math and statistics.
-* Exploring the world.
-
-In particular, I am taking the following courses: 
-
-One course from UC Berkeley's Computer Science Department, two courses from UC Berkeley's Data Science Department, two courses from LSE's Mathematics Department, one course from LSE's Statistics Department, UC Berkeley's math bootcamp for the Economics PhD, and Harvard's first-year PhD course in Macroeconomics. 
-
-I am also using this time to read several textbooks such as "Introduction to Statistical Learning" by James, Witten, Hastie and Tibshirani, "Deep Learning" by Goodfellow, "Recursive Macro Theory" by Ljungqvist and Sargent, among others.
-
-After graduating from LSE I will join Bain & Company as an Associate Consultant.
 
 ## What have I done before?
 
-You can find my complete CV [here](https://www.dropbox.com/s/9xs8m1rikbwz24m/CV_sep18.pdf?dl=0). 
+You can find my complete CV [here](https://www.dropbox.com/s/9xs8m1rikbwz24m/CV_AlvaroAguirre.pdf?dl=0). 
+
+I recently took a year off my studies due to some health/personal reasons. I used this time to:
+
+* Improve my coding skills (Python, R, MATLAB).
+* Learn more math and statistics.
+* Explore the world.
+
+Also, during this time off I took the following courses: One course from UC Berkeley's Computer Science Department, two courses from UC Berkeley's Data Science Department, two courses from LSE's Mathematics Department, one course from LSE's Statistics Department, UC Berkeley's math bootcamp for the Economics PhD, and Harvard's first-year PhD course in Macroeconomics. 
+
+I used that time to read several textbooks, such as "Introduction to Statistical Learning" by James, Witten, Hastie and Tibshirani, "Deep Learning" by Goodfellow, "Recursive Macro Theory" by Ljungqvist and Sargent, among others.
 
 I previously spent a year working at Amazon, based in Madrid. I was a Project Manager for Kindle Direct Publishing and led various projects that involved diving deep into data to solve problems or improve processes. Most of the projects used a mix of SQL, VBA, Amazon Redshift, HTML, DaraWarehousing. Some of them were:
 * Developed internal tools for making data-driven decisions and negotiating with publishers.
@@ -41,7 +40,9 @@ Before Amazon, I worked at a small consulting firm in Madrid doing Econometrics,
 
 ## Useful and useless information
 
-In 2017 I graduated from the Universidad Carlos III de Madrid with a BSc in Economics. I earned the "Premio Extraordinario de Fin de Carrera" for graduating with the best academic record amongst my cohort. [Here](https://www.dropbox.com/s/mguz894hexzxpkp/Premio-madre.jpg?dl=0) is a picture of me receiving the award next to my biggest supporter (my mom!).
+I love books (and have to admit I have a bit of a shopaholic problem when it comes to them). Reading has been my passion since I was a kid, so if you have Goodreads, make sure to [add me as a friend](http://goodreads.com/alvaroaguirrem) so we can keep each other updated. And please send me an email with your favorite book so I can read it! (Any genres welcome)
+
+In 2017 I graduated from the Universidad Carlos III de Madrid with a BSc in Economics. I earned the "Premio Extraordinario de Fin de Carrera" for graduating with the best academic record amongst my cohort. [Here](https://www.dropbox.com/s/mguz894hexzxpkp/Premio-madre.jpg?dl=0) is a picture of me receiving the award next to my biggest supporter (my mom!). My Bachelors' Thesis has been published in the VII edition of the Berkeley Economic Review, you can find it [here](https://issuu.com/berkeleyeconreview/docs/berkeley_economic_review_volume_vii).
 
 I received a scholarship to be a visiting student at the University of California, Berkeley, during 2015 and 2016. Here I discovered and explored several fascinating fields of economics, in particular, development and behavioral caught my attention. There I found out what coding was and heard the term "machine learning" for the first time, since it was the topic of almost every conversation in the Bay Area. I found it extremely interesting and am looking forward to learn more about it. 
 Nothing says Berkeley more than a [picture with a bear](https://www.dropbox.com/s/s3ybj9ffmw2c8sb/Photo%2018-04-2016%2C%2008%2039%2025.jpg?dl=0), or [one at the Oracle Arena](https://www.dropbox.com/s/0od0d4nofx8gpvg/Photo%2003-11-2015%2C%2005%2056%2028.jpg?dl=0) after watching the GSW destroy another team!
@@ -50,7 +51,7 @@ At Berkeley I was part of the [Latin American Leadership Society (LLS)](https://
 
 I am originally from Perú, and I grew up in a city called Ayacucho, in the highlands of the country. If you have heard about it, probably it is because it was the area most stricken by terrorism in Peru in the 80s and 90s. It is a beautiful place so I highly recommend you check it out if you are in Perú sometime. Take a look at the [Plaza Mayor](https://img.elcomercio.pe/files/article_content_ec_fotos/uploads/2018/03/30/5abef95f528f5.jpeg), or at [this picture](https://www.dropbox.com/s/1wmu5a48879q9d5/Photo%2016-05-2017%2C%2000%2032%2054.jpg?dl=0) of me as a kid hanging out with a llama.
 
-I also love reading and writing (one of the reasons I ended up working at Kindle). During my time at Berkeley, I got into writing short stories, and one of them, called "Makaha", won 1st prize for the 2016 St Jordi Literary Contest, judged by the Berkeley English Department. While at Berkeley, I had the fantastic experience of living in the International House, a student dorm that aimed to bring people form all cultures and backgrounds together. They hold a yearly contest called the "Barbara Lynch Crossing Borders Essay Awards Program", where students talk about how this experience has changed their perspective on culture and life. I won the 2016 edition and it is probably the essay I have enjoyed writing the most, feel free to [check it out](https://www.dropbox.com/s/j6li2lr8skco9y4/Border%20Crossing.pdf?dl=0).
+I also enjoy writing (one of the reasons I ended up working at Kindle). During my time at Berkeley, I got into writing short stories, and one of them, called "Makaha", won 1st prize for the 2016 St Jordi Literary Contest, judged by the Berkeley English Department. While at Berkeley, I had the fantastic experience of living in the International House, a student dorm that aimed to bring people form all cultures and backgrounds together. They hold a yearly contest called the "Barbara Lynch Crossing Borders Essay Awards Program", where students talk about how this experience has changed their perspective on culture and life. I won the 2016 edition and it is probably the essay I have enjoyed writing the most, feel free to [check it out](https://www.dropbox.com/s/j6li2lr8skco9y4/Border%20Crossing.pdf?dl=0).
 
 ## Contact me
 
