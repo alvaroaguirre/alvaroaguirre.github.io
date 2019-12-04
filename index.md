@@ -10,37 +10,30 @@ You can use the following links to navigate through the sections:
 
 ## Who am I and what am I up to?
 
-I am a Graduate student at the LSE pursuing a M.Sc. in Econometrics and Mathematical Economics (more info about my program [here](http://www.lse.ac.uk/study-at-lse/Graduate/Degree-programmes-2019/MSc-Econometrics-and-Mathematical-Economics)). My main academic areas of interest are microeconomic theory, behavioral economics and bounded rationality. I hold a BSc in Economics by the Universidad Carlos III de Madrid (graduated summa cum laude), and spent a year as a visiting student at UC Berkeley. After graduating from LSE, I will join Bain & Company as an Associate Consultant in the Madrid office.
+I am a Graduate student at the LSE pursuing a M.Sc. in Econometrics and Mathematical Economics (more info about my program [here](http://www.lse.ac.uk/study-at-lse/Graduate/Degree-programmes-2019/MSc-Econometrics-and-Mathematical-Economics)) with a full scholarship from the Fundación Ramón Areces. My main academic areas of interest are behavioral economics and econometrics. I hold a BSc in Economics from the Universidad Carlos III de Madrid (graduated summa cum laude), and spent a year as a visiting student at UC Berkeley. After LSE, I will join Bain & Company as an Associate Consultant.
 
+I am passionate about technology, statistics, and extracting valuable information from data. I am constantly trying to improve my coding skills and looking for fun stuff to do with data. I have recently discovered [Project Euler](https://projecteuler.net) and became obsessed with it. Check [my github](https://github.com/alvaroaguirre) to find a repository of my solutions.
 
 ## What have I done before?
 
 You can find my complete CV [here](https://www.dropbox.com/s/9xs8m1rikbwz24m/CV_AlvaroAguirre.pdf?dl=0). 
 
-I recently took a year off my studies due to some health/personal reasons. I used this time to:
+I recently took a year off my studies and work. I used this time for personal growth, explore the world, learn more math and statistics, and spend some time with my family. During this time, I also audited several courses, which include one course from UC Berkeley's Computer Science Department, two courses from UC Berkeley's Data Science Department, two courses from LSE's Mathematics Department, one course from LSE's Statistics Department, UC Berkeley's math bootcamp for the Economics PhD, and Harvard's first-year PhD course in Macroeconomics.
 
-* Improve my coding skills (Python, R, MATLAB).
-* Learn more math and statistics.
-* Explore the world.
-
-Also, during this time off I took the following courses: One course from UC Berkeley's Computer Science Department, two courses from UC Berkeley's Data Science Department, two courses from LSE's Mathematics Department, one course from LSE's Statistics Department, UC Berkeley's math bootcamp for the Economics PhD, and Harvard's first-year PhD course in Macroeconomics. 
-
-I used that time to read several textbooks, such as "Introduction to Statistical Learning" by James, Witten, Hastie and Tibshirani, "Deep Learning" by Goodfellow, "Recursive Macro Theory" by Ljungqvist and Sargent, among others.
-
-I previously spent a year working at Amazon, based in Madrid. I was a Project Manager for Kindle Direct Publishing and led various projects that involved diving deep into data to solve problems or improve processes. Most of the projects used a mix of SQL, VBA, Amazon Redshift, HTML, DaraWarehousing. Some of them were:
+After finishing my BSc, I spent a year working at Amazon, based in Madrid. I was a Project Manager for Kindle Direct Publishing and led various projects that involved diving deep into data to solve problems or improve processes. Most of the projects used a mix of SQL, VBA, Amazon Redshift, HTML, DaraWarehousing, and R. Some of them were:
 * Developed internal tools for making data-driven decisions and negotiating with publishers.
-* Analyzed patterns in data and developed a system to detect fraud and abuse in Kindle Unlimited at a global scale (received an EU-wide recognition for the big impact of this project, cut global costs in ~$10M per year, algorithm adopted by BI engineers for regular quality controls).
+* Analyzed patterns in data and developed a system to detect fraud and abuse in Kindle Unlimited at a global scale (received an EU-wide recognition for the big impact of this project, cut global costs by 30%, algorithm adopted by BI engineers for regular quality controls).
 * Owned Business Intelligence for the 2018 Storyteller Contests in EU (France, Spain, UK, Germany). I aligned and defined the data structure, developed the code that would feed the landing pages and automatically generate weekly reports.
 * Used data to understand reading behavior.
 * Redesigned and built a new system of reporting for Kindle in Spain, the US and Mexico.
 * I also organized several training sessions to teach fellow Amazonians (from Managers to Interns) how to dive deep into data. These included a crash course in SQL programming and how to formulate interesting questions for our business units and answer them using data. I developed all the materials and taught the courses.
 
-Before Amazon, I worked at a small consulting firm in Madrid doing Econometrics, trying to find causal effects. The project consisted on measuring the impact of a training program for insurance managers of the largest Spanish bank on sales. I mainly used STATA for the analysis and regressions, and PowerPoint to present the findings.
+Before Amazon, I worked at a small consulting firm in Madrid doing Econometrics modeling, trying to find causal effects. The project consisted on measuring the impact of a training program for insurance managers of the largest Spanish bank on sales. I mainly used STATA for the analysis and regressions, and PowerPoint to present the findings.
 
 
 ## Useful and useless information
 
-I love books (and have to admit I have a bit of a shopaholic problem when it comes to them). Reading has been my passion since I was a kid, so if you have Goodreads, make sure to [add me as a friend](http://goodreads.com/alvaroaguirrem) so we can keep each other updated. And please send me an email with your favorite book so I can read it! (Any genres welcome)
+I love books (and have to admit I have a bit of a shopaholic problem with them). Reading has been my passion since I was a kid, so if you have Goodreads, make sure to [add me as a friend](http://goodreads.com/alvaroaguirrem) so we can keep each other updated. And please send me an email with your favorite book so I can read it! (Any genres welcome)
 
 In 2017 I graduated from the Universidad Carlos III de Madrid with a BSc in Economics. I earned the "Premio Extraordinario de Fin de Carrera" for graduating with the best academic record amongst my cohort. [Here](https://www.dropbox.com/s/mguz894hexzxpkp/Premio-madre.jpg?dl=0) is a picture of me receiving the award next to my biggest supporter (my mom!). My Bachelors' Thesis has been published in the VII edition of the Berkeley Economic Review, you can find it [here](https://issuu.com/berkeleyeconreview/docs/berkeley_economic_review_volume_vii).
 
@@ -49,7 +42,7 @@ Nothing says Berkeley more than a [picture with a bear](https://www.dropbox.com/
 
 At Berkeley I was part of the [Latin American Leadership Society (LLS)](https://www.llsberkeley.org/) as the Forum Vice-Chair. We organized two forums on relevant topics for the development of Latin America. One of the forums was about the potential impact of the TPP on Latin America, and I was in charge of providing a crash course in International Trade as an opening, a bit of pressure since my International Trade Professor was an assistant and speaker at the Forum. [Here](https://www.dropbox.com/s/g4ghid4xq3yrsoy/lecture%20international%20trade.png?dl=0) is a blurry picture of the talk. [This](https://www.dropbox.com/s/5wdqsylqiz0zjbq/Photo%2019-10-2015%2C%2004%2022%2005.jpg?dl=0) is a picture with the amazing group of people that made LLS happen.
 
-I am originally from Perú, and I grew up in a city called Ayacucho, in the highlands of the country. If you have heard about it, probably it is because it was the area most stricken by terrorism in Peru in the 80s and 90s. It is a beautiful place so I highly recommend you check it out if you are in Perú sometime. Take a look at the [Plaza Mayor](https://img.elcomercio.pe/files/article_content_ec_fotos/uploads/2018/03/30/5abef95f528f5.jpeg), or at [this picture](https://www.dropbox.com/s/1wmu5a48879q9d5/Photo%2016-05-2017%2C%2000%2032%2054.jpg?dl=0) of me as a kid hanging out with a llama.
+I am originally from Perú, and I grew up in a city called Ayacucho, in the highlands of the country. If you have heard about it, probably it is because it was the area most stricken by terrorism in Peru in the 80s and 90s. It is a beautiful place so I highly recommend you check it out if you are in Perú sometime. Take a look at the [Plaza Mayor](https://img.elcomercio.pe/files/article_content_ec_fotos/uploads/2018/03/30/5abef95f528f5.jpeg), or at [this picture](https://www.dropbox.com/s/1wmu5a48879q9d5/Photo%2016-05-2017%2C%2000%2032%2054.jpg?dl=0) of me as a kid hanging out with an alpaca.
 
 I also enjoy writing (one of the reasons I ended up working at Kindle). During my time at Berkeley, I got into writing short stories, and one of them, called "Makaha", won 1st prize for the 2016 St Jordi Literary Contest, judged by the Berkeley English Department. While at Berkeley, I had the fantastic experience of living in the International House, a student dorm that aimed to bring people form all cultures and backgrounds together. They hold a yearly contest called the "Barbara Lynch Crossing Borders Essay Awards Program", where students talk about how this experience has changed their perspective on culture and life. I won the 2016 edition and it is probably the essay I have enjoyed writing the most, feel free to [check it out](https://www.dropbox.com/s/j6li2lr8skco9y4/Border%20Crossing.pdf?dl=0).
 
