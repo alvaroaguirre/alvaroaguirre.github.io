@@ -50,3 +50,4 @@ I also enjoy writing (one of the reasons I ended up working at Kindle). During m
 
 Feel free to send me an email at: <alvaroaguirre@outlook.com>.  
 You can also find me on [LinkedIn](https://www.linkedin.com/in/alvaro-aguirre/).
+Or follow me on [Twitter](https://twitter.com/alvaro_aguirrem).
