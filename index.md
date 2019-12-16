@@ -10,7 +10,7 @@ You can use the following links to navigate through the sections:
 
 ## Who am I and what am I up to?
 
-I am a Graduate student at the LSE pursuing a M.Sc. in Econometrics and Mathematical Economics (more info about my program [here](http://www.lse.ac.uk/study-at-lse/Graduate/Degree-programmes-2019/MSc-Econometrics-and-Mathematical-Economics)) with a full scholarship from the Fundación Ramón Areces. My main academic areas of interest are behavioral economics and econometrics. I hold a BSc in Economics from the Universidad Carlos III de Madrid (graduated summa cum laude), and spent a year as a visiting student at UC Berkeley. After LSE, I will join Bain & Company as an Associate Consultant.
+I am a Graduate student at the LSE pursuing a M.Sc. in Econometrics and Mathematical Economics (more info about my program [here](http://www.lse.ac.uk/study-at-lse/Graduate/Degree-programmes-2019/MSc-Econometrics-and-Mathematical-Economics)) with a full scholarship from the [Fundación Ramón Areces](https://www.fundacionareces.es/fundacionareces/en/). My main academic areas of interest are behavioral economics and econometrics. I hold a BSc in Economics from the Universidad Carlos III de Madrid (graduated summa cum laude), and spent a year as a visiting student at UC Berkeley. After LSE, I will join Bain & Company as an Associate Consultant.
 
 I am passionate about technology, statistics, and extracting valuable information from data. I am constantly trying to improve my coding skills and looking for fun stuff to do with data. I have recently discovered [Project Euler](https://projecteuler.net) and became obsessed with it. Check [my github](https://github.com/alvaroaguirre) to find a repository of my solutions.
 
