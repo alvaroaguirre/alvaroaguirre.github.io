@@ -10,7 +10,7 @@ You can use the following links to navigate through the sections:
 
 ## Who am I and what am I up to?
 
-I am a Graduate student at the LSE pursuing a M.Sc. in Econometrics and Mathematical Economics (more info about my program [here](http://www.lse.ac.uk/study-at-lse/Graduate/Degree-programmes-2019/MSc-Econometrics-and-Mathematical-Economics)) with a full scholarship from the [Fundación Ramón Areces](https://www.fundacionareces.es/fundacionareces/en/). Currently, my main areas of interest are non-linear dynamics, bounded rationality and decision-making.
+I am a Graduate student at the LSE pursuing a M.Sc. in Econometrics and Mathematical Economics (more info about my program [here](http://www.lse.ac.uk/study-at-lse/Graduate/Degree-programmes-2019/MSc-Econometrics-and-Mathematical-Economics)) with a full scholarship from the [Fundación Ramón Areces](https://www.fundacionareces.es/fundacionareces/en/). Currently, my main areas of interest are non-linear dynamics, bounded rationality and contest theory.
 
 I hold a BSc in Economics from the Universidad Carlos III de Madrid (graduated summa cum laude), and spent a year as a visiting student at UC Berkeley. After LSE, I will spend the summer working on risk forecasting code at the Systemic Risk Center, and then join Bain & Company as an Associate Consultant.
 
