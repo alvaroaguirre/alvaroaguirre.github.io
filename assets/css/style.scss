@@ -2,3 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
+
+body {
+  background-color: '#393E41';
+  color: '#F6F7EB';
+}
+
+a:link {
+  color: '#3F88C5';
+}
+
+a:hover {
+  color: '#44BBA4';
+}
