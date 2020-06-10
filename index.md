@@ -1,5 +1,7 @@
 # Alvaro Aguirre
 
+[Link to another page](./anotherpage.html).
+
 Welcome to my personal webpage. Here you will be able to find information about me.
 You can use the following links to navigate through the sections:  
 [Who am I?](#who-am-i-and-what-am-i-up-to?) <br/>
