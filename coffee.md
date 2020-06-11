@@ -34,7 +34,7 @@ At the moment, I grind my beans using a Comandante C40 MKIII Nitro Blade - Bambo
 Medium grind - 22 clicks Comandante  
 15gr coffee  
 Bloom with 35ml water at 93ºC for 30 seconds  
-Pour until reaching a 175ml by 1:15min  
+Pour until reaching 175ml by 1:15min  
 Wait 15 seconds  
 Second pour until a total of 250ml by 1:45min  
 Let draw down. Total time around 3:20min
