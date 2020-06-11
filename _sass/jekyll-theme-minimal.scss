@@ -278,7 +278,7 @@ footer {
   }
 }
 
-@media print, screen and (max-height: 640px) {
+@media print, screen and (max-height: 640px) and (min-width: 960px) {
     header {
       width:270px;
       float:left;
