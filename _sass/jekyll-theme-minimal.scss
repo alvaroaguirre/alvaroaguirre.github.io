@@ -107,7 +107,7 @@ img {
 header {
   width:270px;
   float:left;
-  position:fixed;
+  position: fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -119,6 +119,8 @@ ul.downloads {
   border-radius:5px;
   border:1px solid #e0e0e0;
   width:270px;
+  margin: auto;
+  margin-bottom: 10px;
 }
 
 .downloads li {
@@ -224,11 +226,12 @@ footer {
     display:inline;
   }
 
-  header ul {
+  header .menu {
     position:absolute;
     right:50px;
     top:52px;
   }
+    
 }
 
 @media print, screen and (max-width: 720px) {
@@ -240,13 +243,17 @@ footer {
     padding:0;
   }
 
-  header ul, header p.view {
+  header .menu, header p.view {
     position:static;
   }
 
   pre, code {
     word-wrap:normal;
   }
+    
+  .downloads {
+      background-color: red;
+    }
 }
 
 @media print, screen and (max-width: 480px) {
@@ -269,4 +276,13 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+@media print, screen and (max-height: 640px) {
+    header {
+      width:270px;
+      float:left;
+      position: absolute;
+      -webkit-font-smoothing:subpixel-antialiased;
+    }
 }

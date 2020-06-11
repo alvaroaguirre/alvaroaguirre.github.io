@@ -174,7 +174,7 @@ img { max-width: 100%; }
 
 header { width: 270px; float: left; position: fixed; -webkit-font-smoothing: subpixel-antialiased; }
 
-ul.downloads { list-style: none; height: 40px; padding: 0; background: #f4f4f4; border-radius: 5px; border: 1px solid #e0e0e0; width: 270px; }
+ul.downloads { list-style: none; height: 40px; padding: 0; background: #f4f4f4; border-radius: 5px; border: 1px solid #e0e0e0; width: 270px; margin: auto; margin-bottom: 10px; }
 
 .downloads li { width: 89px; float: left; border-right: 1px solid #e0e0e0; height: 40px; }
 
@@ -202,13 +202,15 @@ hr { border: 0; background: #e5e5e5; height: 1px; margin: 0 0 20px; }
 
 footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-smoothing: subpixel-antialiased; }
 
-@media print, screen and (max-width: 960px) { div.wrapper { width: auto; margin: 0; } header, section, footer { float: none; position: static; width: auto; } header { padding-right: 320px; } section { border: 1px solid #e5e5e5; border-width: 1px 0; padding: 20px 0; margin: 0 0 20px; } header a small { display: inline; } header ul { position: absolute; right: 50px; top: 52px; } }
+@media print, screen and (max-width: 960px) { div.wrapper { width: auto; margin: 0; } header, section, footer { float: none; position: static; width: auto; } header { padding-right: 320px; } section { border: 1px solid #e5e5e5; border-width: 1px 0; padding: 20px 0; margin: 0 0 20px; } header a small { display: inline; } header .menu { position: absolute; right: 50px; top: 52px; } }
 
-@media print, screen and (max-width: 720px) { body { word-wrap: break-word; } header { padding: 0; } header ul, header p.view { position: static; } pre, code { word-wrap: normal; } }
+@media print, screen and (max-width: 720px) { body { word-wrap: break-word; } header { padding: 0; } header .menu, header p.view { position: static; } pre, code { word-wrap: normal; } .downloads { background-color: red; } }
 
 @media print, screen and (max-width: 480px) { body { padding: 15px; } .downloads { width: 99%; } .downloads li, .downloads li + li + li { width: 33%; } }
 
 @media print { body { padding: 0.4in; font-size: 12pt; color: #444; } }
+
+@media print, screen and (max-height: 640px) { header { width: 270px; float: left; position: absolute; -webkit-font-smoothing: subpixel-antialiased; } }
 
 body { background-color: #393E41; color: #F6F7EB; font-size: 12pt; }
 
@@ -233,5 +235,7 @@ h4 { color: #44BBA4; }
 .nav-item { border-style: solid; margin-bottom: 10px; border-width: thin; }
 
 footer { text-align: center; font-size: 10pt; color: silver; }
+
+header { overflow: scroll; }
 
 /*# sourceMappingURL=style.css.map */
