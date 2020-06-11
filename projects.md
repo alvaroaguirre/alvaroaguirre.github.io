@@ -48,5 +48,3 @@ Traditional VaR forecasting uses the assumption of normally distributed returns,
 Microeconomic models on Contest Theory in recent years have introduced asymmetries in costs, valuations, and information. However, most of them take for granted that the map from the vector of efforts to the probabilities of winning, known as the Contest Success Function, is part of the agents' common knowledge. For my bachelors' thesis I built a simple model adding a stochastic component in the CSF, plus information asymmetries between the participating agents, and proposed an application to electoral competitions. The paper was published in the Volume VII of the [Berkeley Economic Review](https://econreview.berkeley.edu)
 
 [<img src="https://user-images.githubusercontent.com/29491896/84324905-7755fe80-ab71-11ea-9bc3-cc3b20c55316.png">](https://econreview.berkeley.edu)
-
-### More projects to come

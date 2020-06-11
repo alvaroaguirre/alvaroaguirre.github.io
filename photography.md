@@ -23,3 +23,5 @@ layout: default
 <img src="https://user-images.githubusercontent.com/29491896/84328966-6316ff00-ab7b-11ea-939c-a12ac18f6430.JPG">
 
 <img src="https://user-images.githubusercontent.com/29491896/84328963-60b4a500-ab7b-11ea-8069-a1a43a7802d0.JPG">
+
+<sup>© Alvaro Aguirre, 2020</sup>

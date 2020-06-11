@@ -58,3 +58,5 @@ Fill with 55ml of water at 95ºC
 Stir vigorously for 15 seconds  
 Place cap with two paper filters  
 Inverted Aeropress and press. Aim to finish by 30 seconds total 
+
+<img src="https://user-images.githubusercontent.com/29491896/84327022-39a7a480-ab76-11ea-8f87-d21ba5ba88ee.jpg">
