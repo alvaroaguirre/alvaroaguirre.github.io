@@ -202,7 +202,7 @@ hr { border: 0; background: #e5e5e5; height: 1px; margin: 0 0 20px; }
 
 footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-smoothing: subpixel-antialiased; }
 
-@media print, screen and (max-width: 960px) { div.wrapper { width: auto; margin: 0; } header, section, footer { float: none; position: static; width: auto; } header { padding-right: 320px; } section { border: 1px solid #e5e5e5; border-width: 1px 0; padding: 20px 0; margin: 0 0 20px; } header a small { display: inline; } header .menu { position: absolute; right: 50px; top: 52px; } }
+@media print, screen and (max-width: 960px) { div.wrapper { width: auto; margin: 0; } header, section, footer { float: none; position: static; width: auto; } header { padding-right: 320px; } section { border: 1px solid #e5e5e5; border-width: 1px 0; padding: 20px 0; margin: 0 0 20px; } header a small { display: inline; } header .menu { position: absolute; right: 50px; top: 100px; } }
 
 @media print, screen and (max-width: 720px) { body { word-wrap: break-word; } header { padding: 0; } header .menu, header p.view { position: static; } pre, code { word-wrap: normal; } .downloads { background-color: red; } }
 
@@ -226,7 +226,7 @@ h3 { color: #E94F37; }
 
 h4 { color: #44BBA4; }
 
-.headshot { margin-bottom: 20px; }
+.headshot { margin-bottom: 20px; max-width: 250px; display: block; margin-left: auto; margin-right: auto; }
 
 .sect { text-align: center; background-color: red; width: 1000px; }
 
@@ -237,5 +237,11 @@ h4 { color: #44BBA4; }
 footer { text-align: center; font-size: 10pt; color: silver; }
 
 header { overflow: scroll; }
+
+.photo { width: 100%; display: block; margin-left: auto; margin-right: auto; }
+
+.photo:hover { opacity: 0.2; transform: scale(1.05); filter: grayscale(20%); }
+
+.photo_title { margin-top: 20px; margin-bottom: 10px; }
 
 /*# sourceMappingURL=style.css.map */
