@@ -6,7 +6,7 @@ layout: default
 
 <center class = "photo_title" ><i>Morning V60 on 2218</i></center>
 
-<a href = "https://user-images.githubusercontent.com/29491896/84328959-5beff100-ab7b-11ea-8cc6-ef165532694d.JPG" target="_blank"><img class = "photo" src="https://user-images.githubusercontent.com/29491896/84328959-5beff100-ab7b-11ea-8cc6-ef165532694d.JPG"></a>
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/84328959-5beff100-ab7b-11ea-8cc6-ef165532694d.JPG">
 
 <center class = "photo_title" ><i>Naked London trees</i></center>
 
