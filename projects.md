@@ -20,6 +20,12 @@ _Ikeda's eye_
 [<img src="https://user-images.githubusercontent.com/29491896/84302654-8fb42200-ab4d-11ea-9464-9dc4f6266028.jpg">](https://user-images.githubusercontent.com/29491896/84302654-8fb42200-ab4d-11ea-9464-9dc4f6266028.jpg)
 
 
+### Collatz's Contrapunctus
+
+Reading "Gödel, Escher, Bach" by Douglas Hofstadter was a very enriching experience, and made me think a lot about the intersection of mathematics, art, and music. One of my favorite bands, Vulfpeck, released a music video called ["Bach Vision Test"](https://www.youtube.com/watch?v=vJfiOuDdetg), which beautifully shows a fugue with four voices, each represented by a colored line on a black background that moves up and down depending on the notes. While reading the book, I regained interest in Collatz's Conjecture, which I had initially learnt about during a lunch with a mathematician friend a few years ago. I found the plot of stopping times amusing, and for small integers (<300), the plot semeed to have two "voices". So I thought it would be nice to follow Vulfpeck's idea and animate stopping times with two voices as if it were a counterpoint or fugue. I wonder if Lothar Collatz was a fan of Bach:
+
+![Collatz](https://user-images.githubusercontent.com/29491896/84673706-f9ec0e80-af21-11ea-8dc4-59990ec7911b.gif)
+
 ### Building Sierpiński triangles 
 
 Fractals are incredibly soothing. After watching [this video](https://www.youtube.com/watch?v=kbKtFN71Lfs) from Numberphile, I decided to write a simple code that uses a chaotic game algorithm to draw Sierpiński triangles from randomly selected initial points. [Here](https://github.com/alvaroaguirre/NonLinearDynamics/blob/master/sierpinski.R) you can find the code and run it. Every time you will get a different fractal.

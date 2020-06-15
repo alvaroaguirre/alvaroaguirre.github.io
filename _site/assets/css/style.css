@@ -238,10 +238,18 @@ footer { text-align: center; font-size: 10pt; color: silver; }
 
 header { overflow: scroll; }
 
-.photo { width: 100%; opacity: 0.6; filter: grayscale(50%); }
+.photo { width: 100%; /*opacity: 0.6; filter: grayscale(50%);*/ }
 
-.photo:hover { opacity: 1; transform: scale(1.05); filter: grayscale(0%); position: relative; z-index: 10; }
+/*
+.photo:hover {
+    opacity: 1;
+    transform: scale(1.05);
+    filter: grayscale(0%);
+    position: relative;
+    z-index: 10;
 
+}
+*/
 .photo_title { margin-top: 20px; margin-bottom: 10px; }
 
 /*# sourceMappingURL=style.css.map */
