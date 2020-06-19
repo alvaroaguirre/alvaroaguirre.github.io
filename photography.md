@@ -4,6 +4,54 @@ layout: default
 
 ## Photography
 
+<center class = "photo_title" ><i>On My Way</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/85136737-fa451c00-b237-11ea-8fac-533361e4c8bf.jpeg">
+
+<center class = "photo_title" ><i>Front porch</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/85136741-fc0edf80-b237-11ea-91b0-cade4d363704.jpeg">
+
+<center class = "photo_title" ><i>Little Venice</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/85138276-6a54a180-b23a-11ea-84c9-3b85ed002549.png">
+
+<center class = "photo_title" ><i>Fitzrovia</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/85136748-ff09d000-b237-11ea-8faf-5c55f19d3def.jpeg">
+
+<center class = "photo_title" ><i>Hidden Senate House</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/85136753-016c2a00-b238-11ea-9125-45d97eaae473.jpeg">
+
+<center class = "photo_title" ><i>Shadows at Redemption</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/85136756-0204c080-b238-11ea-96c1-665297bef016.jpeg">
+
+<center class = "photo_title" ><i>Little Venice II</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/85136763-04671a80-b238-11ea-88ec-0352acb5ea30.jpeg">
+
+<center class = "photo_title" ><i>Local Forest</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/85138350-82c4bc00-b23a-11ea-85da-742079cbe9f1.png">
+
+<center class = "photo_title" ><i>Stairway</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/85136866-32e4f580-b238-11ea-8dea-a77ea0839100.jpeg">
+
+<center class = "photo_title" ><i>Cranes</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/85136875-37a9a980-b238-11ea-9f31-740ff3840727.jpeg">
+
+<center class = "photo_title" ><i>Saga</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/85136905-455f2f00-b238-11ea-830c-da6bb40a166f.jpeg">
+
+<center class = "photo_title" ><i>Growing downwards</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/85136943-5740d200-b238-11ea-882e-bde92197fa38.jpeg">
+
 <center class = "photo_title" ><i>Morning V60 on 2218</i></center>
 
 <img class = "photo" src="https://user-images.githubusercontent.com/29491896/84328959-5beff100-ab7b-11ea-8cc6-ef165532694d.JPG">
