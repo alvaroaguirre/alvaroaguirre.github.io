@@ -24,7 +24,7 @@ layout: default
 
 <img class = "photo" src="https://user-images.githubusercontent.com/29491896/85136753-016c2a00-b238-11ea-9125-45d97eaae473.jpeg">
 
-<center class = "photo_title" ><i>Shadows at Redemption</i></center>
+<center class = "photo_title" ><i>Redemption shadows</i></center>
 
 <img class = "photo" src="https://user-images.githubusercontent.com/29491896/85136756-0204c080-b238-11ea-96c1-665297bef016.jpeg">
 
@@ -44,13 +44,29 @@ layout: default
 
 <img class = "photo" src="https://user-images.githubusercontent.com/29491896/85136875-37a9a980-b238-11ea-9f31-740ff3840727.jpeg">
 
-<center class = "photo_title" ><i>Saga</i></center>
+<center class = "photo_title" ><i>Shelf</i></center>
 
 <img class = "photo" src="https://user-images.githubusercontent.com/29491896/85136905-455f2f00-b238-11ea-830c-da6bb40a166f.jpeg">
 
 <center class = "photo_title" ><i>Growing downwards</i></center>
 
 <img class = "photo" src="https://user-images.githubusercontent.com/29491896/85136943-5740d200-b238-11ea-882e-bde92197fa38.jpeg">
+
+<center class = "photo_title" ><i>Zig-zag</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/85199122-1e126b80-b2e5-11ea-8936-331636d94a00.jpeg">
+
+<center class = "photo_title" ><i>SOAS</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/85199125-210d5c00-b2e5-11ea-945e-ba5762bf1234.jpeg">
+
+<center class = "photo_title" ><i>The cemetery next door</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/85199132-24a0e300-b2e5-11ea-871e-352db737864b.jpeg">
+
+<center class = "photo_title" ><i>Depths of Word on Water</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/85199160-5ade6280-b2e5-11ea-9c5d-2a054dca33bb.jpeg">
 
 <center class = "photo_title" ><i>Morning V60 on 2218</i></center>
 
