@@ -33,21 +33,23 @@ At the moment, I grind my beans using a Comandante C40 MKIII Nitro Blade - Bambo
 
 Medium grind - 22 clicks Comandante  
 15gr coffee  
-Bloom with 35ml water at 93ºC for 30 seconds  
+Bloom with 40ml water at 93ºC for 45 seconds  
 Pour until reaching 175ml by 1:15min  
 Wait 15 seconds  
 Second pour until a total of 250ml by 1:45min  
-Let draw down. Total time around 3:20min
+Let draw down. Total time around 2:45min
 
 #### Aeropress
 
 Medium coarse grind - 26 clicks Comandante  
-16gr coffee  
+16.5gr coffee  
 Aeropress in inverted position  
-Fill up to 250ml of water at 82ºC  
+Pour 50ml of water at 82ºC  
+Stir three times and let rest for 10 seconds  
+Pour water until reaching 250ml  
 Stir in slow circles three times  
 Place cap with filter  
-At 2:00min invert Aeropress and press slowly, aim to finish by 2:30min total  
+At 2:15min invert Aeropress and press slowly, aim to finish by 2:40min total  
 
 #### AeroEspresso
 
