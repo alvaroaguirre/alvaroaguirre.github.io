@@ -12,11 +12,12 @@ I have an Instagram account where I post some brewing videos and other coffee re
 
 I collect the bags of coffee I drink. This picture shows most of the beans that accompanied me during my time at the LSE:
 
-<img src="https://user-images.githubusercontent.com/29491896/84326959-ffd69e00-ab75-11ea-96ca-48a7474a37d7.JPG">
+<img src="https://user-images.githubusercontent.com/29491896/85207709-94818e80-b322-11ea-8821-49fe15c8d446.jpeg">
 
-Some of the beans I enjoyed the most were:  
+My prefered flavour profile is floral/fruity, with remarked acidity and medium sweetness.  
+Some of the beans I enjoyed brewing the most were:  
 _La Fila_ by The Barn Coffee Roasters - Sweet Honduras Washed with Plum Jam notes  
-_Los Naranjos_ by Kiss The Hippo - A nice Colombian Washed with Jasmin notes  
+_Sweet Valley - Granja La Esperanza_ by Red Bank Coffee - A nice Colombian Natural with a strong Riesling finish    
 _Tsebel_ by Origin Coffee - Complex Ethiopia Natural with Strawberry and Dark Chocolate notes.
 
 ### My gear
