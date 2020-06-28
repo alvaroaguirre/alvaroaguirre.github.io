@@ -26,7 +26,14 @@ Reading "Gödel, Escher, Bach" by Douglas Hofstadter was a very enriching experi
 
 ![Collatz](https://user-images.githubusercontent.com/29491896/84673706-f9ec0e80-af21-11ea-8dc4-59990ec7911b.gif)
 
-I wrote some code in R that transform Collatz's stopping numbers into musical notes and plays a melody with them. You can find the code [here](https://github.com/alvaroaguirre/FunProjects/blob/master/collatz_music.R).
+I wrote some code in R that transform Collatz's stopping numbers into musical notes and plays a melody with them. You can find the code [here](https://github.com/alvaroaguirre/Projects/blob/master/collatz_music.R).
+
+### Simple Whatsapp conversation analysis with Python
+
+I find natural language data very interesting, especially after reading Ben Blatt's _Nabokov's favorite word is mauve_. I mostly do my data work in R, so I decided to try to use basic Python and Pandas to do some simply analysis on Whatsapp conversations. You can easily export chats from the Whatsapp app, so I wrote some code that gets and plots the daily messages sent, groups them by sender, checks the average message length, and finally gives you the most common words used by sender, excluding stopwords. The code has been made general, so you can check out the Jupyter notebook [here](https://github.com/alvaroaguirre/Projects/blob/master/whatsapp.ipynb) and try it with your own chat.
+
+![Whatsapp](https://user-images.githubusercontent.com/29491896/85952801-928f7f00-b963-11ea-8372-b540c58293eb.png)
+
 
 ### Building Sierpiński triangles 
 
