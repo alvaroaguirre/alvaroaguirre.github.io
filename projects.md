@@ -51,13 +51,6 @@ In [this](https://github.com/alvaroaguirre/Project_Euler) github repository you 
 <img src="https://projecteuler.net/images/euler_portrait.png">
 
 
-### Backtesting EWMA Value-at-Risk using a T-algorithm
-
-Traditional VaR forecasting uses the assumption of normally distributed returns, which clearly underestimated the fat-tails of financial data. After a project that consisted on EWMA VaR forecasting for three major US stocks assuming normally, I expanded it by developing an algorithm that chooses stock-specific optimal degree of fat-tailness. Applying this algorithm to the top 100 US companies by market size, the results showed an improvement for every company:
-
-<img src="https://user-images.githubusercontent.com/29491896/84324126-fd714580-ab6f-11ea-9cd9-7419071992a1.png">
-
-
 ### Contests with Uncertainty on Success Functions
 
 Microeconomic models on Contest Theory in recent years have introduced asymmetries in costs, valuations, and information. However, most of them take for granted that the map from the vector of efforts to the probabilities of winning, known as the Contest Success Function, is part of the agents' common knowledge. For my bachelors' thesis I built a simple model adding a stochastic component in the CSF, plus information asymmetries between the participating agents, and proposed an application to electoral competitions. The paper was published in the Volume VII of the [Berkeley Economic Review](https://econreview.berkeley.edu)
