@@ -22,11 +22,12 @@ _Ikeda's eye_
 
 ### Collatz's Contrapunctus
 
-Reading "Gödel, Escher, Bach" by Douglas Hofstadter was a very enriching experience, and made me think a lot about the intersection of mathematics and music. One of my favorite bands, Vulfpeck, released a music video called ["Bach Vision Test"](https://www.youtube.com/watch?v=vJfiOuDdetg), which beautifully shows a fugue with four voices, each represented by a colored line on a black background that moves up and down depending on the notes. While reading the book, I regained interest in Collatz's Conjecture, which I had initially learnt about during a lunch with a mathematician friend a few years ago. I found the plot of stopping times amusing, and for small integers (<300), the plot semeed to have two "voices". So I thought it would be nice to follow Vulfpeck's idea and animate stopping times with two voices as if it were a counterpoint or fugue. I wonder if Lothar Collatz was a fan of Bach:
+Reading "Gödel, Escher, Bach" by Douglas Hofstadter was a very enriching experience, and made me think a lot about the intersection of mathematics and music. One of my favorite bands, Vulfpeck, released a music video called ["Bach Vision Test"](https://www.youtube.com/watch?v=vJfiOuDdetg), which beautifully shows a fugue with four voices, each represented by a colored line on a black background that moves up and down depending on the notes. While reading the book, I regained interest in Collatz's Conjecture, which I had initially learnt about during a lunch with a mathematician friend a few years ago. I found the plot of stopping times amusing, and for small integers (<300), the plot semeed to have two "voices". So I thought it would be nice to follow Vulfpeck's idea and animate stopping times with two voices as if it were a counterpoint or fugue. I also wrote some code in R that transform Collatz's stopping numbers into musical notes and plays a melody with them. You can find the code [here](https://github.com/alvaroaguirre/Projects/blob/master/collatz_music.R).
+
+I wonder if Lothar Collatz was a fan of Bach:
 
 ![Collatz](https://user-images.githubusercontent.com/29491896/84673706-f9ec0e80-af21-11ea-8dc4-59990ec7911b.gif)
 
-I wrote some code in R that transform Collatz's stopping numbers into musical notes and plays a melody with them. You can find the code [here](https://github.com/alvaroaguirre/Projects/blob/master/collatz_music.R).
 
 ### Simple Whatsapp conversation analysis with Python
 
