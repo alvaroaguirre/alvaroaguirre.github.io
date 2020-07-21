@@ -4,6 +4,42 @@ layout: default
 
 ## Photography
 
+<center class = "photo_title" ><i>Eastbourne Eye</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/88109036-b9775480-cba1-11ea-90a3-d9bedc2353cf.jpeg">
+
+<center class = "photo_title" ><i>Seaford fisherman</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/88109042-bda37200-cba1-11ea-923c-b0a713b0b2a8.jpeg">
+
+<center class = "photo_title" ><i>The bagpiper</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/88109053-c09e6280-cba1-11ea-97c6-44656322321d.jpeg">
+
+<center class = "photo_title" ><i>Sister</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/88109112-da3faa00-cba1-11ea-934b-e3b6537cf108.jpeg">
+
+<center class = "photo_title" ><i>The lighthouse keeper</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/88109110-d7dd5000-cba1-11ea-8937-6b4ce06f9174.jpeg">
+
+<center class = "photo_title" ><i>Jacket</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/88109087-cdbb5180-cba1-11ea-9d9a-f19d5410d141.jpeg">
+
+<center class = "photo_title" ><i>Please remember it is compulsory to wear a mask on public transport</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/88109119-dca20400-cba1-11ea-82c7-8f51998cc634.jpeg">
+
+<center class = "photo_title" ><i>Goodbyes</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/88109126-df045e00-cba1-11ea-9e3c-08d426b016d8.jpeg">
+
+<center class = "photo_title" ><i>Bloodpool</i></center>
+
+<img class = "photo" src="https://user-images.githubusercontent.com/29491896/88109144-e6c40280-cba1-11ea-9fc7-2d4d3da2d0b7.jpeg">
+
 <center class = "photo_title" ><i>Concave</i></center>
 
 <img class = "photo" src="https://user-images.githubusercontent.com/29491896/87431254-463c7400-c5de-11ea-8e07-85fd314e47cc.jpeg">
