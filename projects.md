@@ -28,6 +28,15 @@ I wonder if Lothar Collatz was a fan of Bach:
 
 ![Collatz](https://user-images.githubusercontent.com/29491896/84673706-f9ec0e80-af21-11ea-8dc4-59990ec7911b.gif)
 
+### Outlook cleaner for Mac
+
+Due to the pandemic I had to work on my personal computer while doing research for the Systemic Risk Center. Since there was a lot of computing involved, it didn't take long until my small Macbook Pro's disk filled up. This motivated me to dig deep into my files and try to find a way to clean things up. I use the Outlook app for my mac, and realized that it had been written several Gb (I've had the same email for around 14 years!). Basically, Outlook downloads messages and attachments in your computer, and there is no option to only keep downloaded emails from the last X days. I have been trying to learn some more python so I wrote a little program that deletes all hidden Outlook files older than a year (you can change this to any number of days). Note that this does not delete any emails, only the downloaded data on your computer, you can still access those messages online and re-download them anytime. You can find the program [here](https://github.com/alvaroaguirre/Projects/tree/master/Outlook_cleaner).
+
+### Credit data from the Bank for International Settlements
+
+I had to do some work with data from the Bank for International Settlements. I built an R notebook that automatically downloads data from the BIS using an API and creates functions to easily make plots for credits to the non-financial sector, including: government, households, private non-fin, non-fin corporations, non-fin sector. The plots can be created for a single country or for several countries with the same syntax. You can find the notebook [here](https://github.com/alvaroaguirre/Projects/tree/master/BIS), and a sample plot:
+
+![](https://raw.githubusercontent.com/alvaroaguirre/Projects/master/BIS/non-financial-2005.png)
 
 ### Simple Whatsapp conversation analysis with Python
 
