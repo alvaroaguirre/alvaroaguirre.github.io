@@ -6,11 +6,16 @@ layout: default
 
 ### Benford's Law
 
-I recently learned about [Benford's Law](https://en.wikipedia.org/wiki/Benford%27s_law) and could not believe it was real. It basically says that the distribution of the leading digit of real-world data is not uniform, as one would expect, regardless of the unit measured, and it actually always has the same distribution. So obviously I had to test this. I used two datasets. First, I downloaded daily stock prices from CRSP for all US publicly traded stocks during 2019, which is almost 2 million observations. Then, I downloaded a Coronavirus dataset from [Our world in data](https://ourworldindata.org/), in particular, I was interested in daily new cases for each country, both at the absolute level and per million of habitants, to try out different units. I wrote a little Python script using Pandas and Numpy to get the distribution of leading non-zero digits and... Benford's Law holds! Amazing! Below are the distribution plots, and the Jupyter notebooks with the codes are [here](https://github.com/alvaroaguirre/Projects/tree/master/Benfords)
+I recently learned about [Benford's Law](https://en.wikipedia.org/wiki/Benford%27s_law) and could not believe it was real. It basically says that the distribution of the leading digit of real-world data is not uniform, as one would expect, regardless of the unit measured, and it actually always has the same distribution. So obviously I had to test this. I used two datasets. First, I downloaded daily stock prices from CRSP for all US publicly traded stocks during 2019, which is almost 2 million observations. Then, I downloaded a Coronavirus dataset from [Our world in data](https://ourworldindata.org/), in particular, I was interested in daily new cases for each country, both at the absolute level and per million of habitants, to try out different units. I wrote a little Python script using Pandas and Numpy to get the distribution of leading non-zero digits and... Benford's Law holds! Amazing! Below is a one of the distribution plots I generated. To see all, and the Jupyter notebooks with the codes so you can try it for yourself, go [here.](https://github.com/alvaroaguirre/Projects/tree/master/Benfords)
 
-![Benford1](https://user-images.githubusercontent.com/29491896/89736834-b5d24180-da6c-11ea-8303-5580cb0c8b79.png)
-![Benford2](https://user-images.githubusercontent.com/29491896/89736832-b2d75100-da6c-11ea-95c4-4b88d5c3261d.png)
-![Benford3](https://user-images.githubusercontent.com/29491896/89736967-ca630980-da6d-11ea-8a46-455ad1841b37.png)
+![Benford2](https://github.com/alvaroaguirre/Projects/blob/master/Benfords/Covid/benfords.png?raw=true)
+
+### Numerical computing language speed: R, Julia, Matlab and Python
+
+While doing research at the Systemic Risk Centre, I wrote an article with Jon Danielsson to be published at Vox EU about the speed of numerical computing languages for finance. In particular, we wanted to test R, Julia, Matlab and Python. We performed various benchmark tests. For example, we read a large dataset both compressed (~1GB) and uncompressed (~8GB), which includes all the CRSP database. R's data.table package was unparalled for this task. We also performed a GARCH log-likelihood calculations and compared the computing time with a code we wrote in C, which was of course the fastest. Here Julia and Matlab beated base R and base Python, but when decorating R with Rcpp and Python with Numba, these were the fastest. We also included a test on performing group calcuations on the large dataset. You can find all the details in [this](https://github.com/alvaroaguirre/Projects/tree/master/Speed) github repository. 
+
+![Reading_speed](https://raw.githubusercontent.com/alvaroaguirre/Projects/f77d54118933e726a2dcce0d862dbd778d5c5ddd/Speed/plots/svg/reading_time.svg)
+![Computing_speed](https://github.com/alvaroaguirre/Projects/blob/master/Speed/plots/png_large/garch.png?raw=true)
 
 ### Chaotic Art 
 
