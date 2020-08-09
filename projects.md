@@ -4,7 +4,15 @@ layout: default
 
 ## Projects
 
-### Chaotic Art
+### Benford's Law
+
+I recently learned about [Benford's Law](https://en.wikipedia.org/wiki/Benford%27s_law) and could not believe it was real. It basically says that the distribution of the leading digit of real-world data is not uniform, as one would expect, regardless of the unit measured, and it actually always has the same distribution. So obviously I had to test this. I used two datasets. First, I downloaded daily stock prices from CRSP for all US publicly traded stocks during 2019, which is almost 2 million observations. Then, I downloaded a Coronavirus dataset from [Our world in data](https://ourworldindata.org/), in particular, I was interested in daily new cases for each country, both at the absolute level and per million of habitants, to try out different units. I wrote a little Python script using Pandas and Numpy to get the distribution of leading non-zero digits and... Benford's Law holds! Amazing! Below are the distribution plots, and the Jupyter notebooks with the codes are [here](https://github.com/alvaroaguirre/Projects/tree/master/Benfords)
+
+![Benford1](https://user-images.githubusercontent.com/29491896/89736834-b5d24180-da6c-11ea-8303-5580cb0c8b79.png)
+![Benford2](https://user-images.githubusercontent.com/29491896/89736832-b2d75100-da6c-11ea-95c4-4b88d5c3261d.png)
+![Benford3](https://user-images.githubusercontent.com/29491896/89736967-ca630980-da6d-11ea-8a46-455ad1841b37.png)
+
+### Chaotic Art 
 
 I have always been fascinated by the beauty and aesthetics found in mathematics. During my time at the LSE I discovered Chaos Theory, and realized that playing around with different dynamical systems and delay plots could generate beautiful pieces. Here are some examples, you can find more details [here](https://github.com/alvaroaguirre/NonLinearDynamics/tree/master/ChaoticArt).
 
