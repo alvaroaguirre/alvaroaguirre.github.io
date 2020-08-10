@@ -286,3 +286,22 @@ footer {
       -webkit-font-smoothing:subpixel-antialiased;
     }
 }
+
+ul.icons {
+  list-style:none;
+  height:40px;
+  padding:0;
+  margin: auto;
+  margin-bottom: 0px;
+}
+
+.icons li {
+  width:33%;
+  float:left;
+  height:40px;
+    text-align: center;
+}
+
+.icons li a:hover{
+    opacity: 0.5;
+}

@@ -212,6 +212,12 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
 
 @media print, screen and (max-height: 640px) and (min-width: 960px) { header { width: 270px; float: left; position: absolute; -webkit-font-smoothing: subpixel-antialiased; } }
 
+ul.icons { list-style: none; height: 40px; padding: 0; margin: auto; margin-bottom: 0px; }
+
+.icons li { width: 33%; float: left; height: 40px; text-align: center; }
+
+.icons li a:hover { opacity: 0.5; }
+
 body { background-color: #393E41; color: #F6F7EB; font-size: 12pt; }
 
 a { color: #44BBA4; }
