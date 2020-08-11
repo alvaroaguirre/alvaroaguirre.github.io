@@ -1,10 +1,10 @@
-I")<h2 id="projects">Projects</h2>
+I"�'<h2 id="projects">Projects</h2>
 
 <h3 id="benfords-law">Benford’s Law</h3>
 
-<p>I recently learned about <a href="https://en.wikipedia.org/wiki/Benford%27s_law">Benford’s Law</a> and could not believe it was real. It basically says that the distribution of the leading digit of real-world data is not uniform, as one would expect, regardless of the unit measured, and it actually always has the same distribution. So obviously I had to test this. I used two datasets. First, I downloaded daily stock prices from CRSP for all US publicly traded stocks during 2019, which is almost 2 million observations. Then, I downloaded a Coronavirus dataset from <a href="https://ourworldindata.org/">Our world in data</a>, in particular, I was interested in daily new cases for each country, both at the absolute level and per million of habitants, to try out different units. I wrote a little Python script using Pandas and Numpy to get the distribution of leading non-zero digits and… Benford’s Law holds! Amazing! Below is a one of the distribution plots I generated. To see all, and the Jupyter notebooks with the codes so you can try it for yourself, go <a href="https://github.com/alvaroaguirre/Projects/tree/master/Benfords">here.</a></p>
+<p>I recently learned about <a href="https://en.wikipedia.org/wiki/Benford%27s_law">Benford’s Law</a> and could not believe it was real. It basically says that the distribution of the leading digit of real-world data is not uniform, as one would expect, regardless of the unit measured, and it actually always has the same distribution. So obviously I had to test this. I used two datasets. First, I downloaded daily stock prices from CRSP for all US publicly traded stocks during 2019, which is almost 2 million observations. Then, I downloaded a Coronavirus dataset from <a href="https://ourworldindata.org/">Our world in data</a>. I wrote a little Python script using Pandas and Numpy to get the distribution of leading non-zero digits and… Benford’s Law holds! Amazing! Below is a one of the distribution plots I generated. I wrote a more detailed blog post <a href="./blog/benford/benford.html">here</a>.</p>
 
-<p><img src="https://github.com/alvaroaguirre/Projects/blob/master/Benfords/Covid/benfords.png?raw=true" alt="Benford2" /></p>
+<p><img src="./blog/benford/benford_corona.svg" alt="Benford2" /></p>
 
 <h3 id="numerical-computing-language-speed-r-julia-matlab-and-python">Numerical computing language speed: R, Julia, Matlab and Python</h3>
 

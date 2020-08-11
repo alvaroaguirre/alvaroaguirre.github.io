@@ -6,9 +6,9 @@ layout: default
 
 ### Benford's Law
 
-I recently learned about [Benford's Law](https://en.wikipedia.org/wiki/Benford%27s_law) and could not believe it was real. It basically says that the distribution of the leading digit of real-world data is not uniform, as one would expect, regardless of the unit measured, and it actually always has the same distribution. So obviously I had to test this. I used two datasets. First, I downloaded daily stock prices from CRSP for all US publicly traded stocks during 2019, which is almost 2 million observations. Then, I downloaded a Coronavirus dataset from [Our world in data](https://ourworldindata.org/), in particular, I was interested in daily new cases for each country, both at the absolute level and per million of habitants, to try out different units. I wrote a little Python script using Pandas and Numpy to get the distribution of leading non-zero digits and... Benford's Law holds! Amazing! Below is a one of the distribution plots I generated. To see all, and the Jupyter notebooks with the codes so you can try it for yourself, go [here.](https://github.com/alvaroaguirre/Projects/tree/master/Benfords)
+I recently learned about [Benford's Law](https://en.wikipedia.org/wiki/Benford%27s_law) and could not believe it was real. It basically says that the distribution of the leading digit of real-world data is not uniform, as one would expect, regardless of the unit measured, and it actually always has the same distribution. So obviously I had to test this. I used two datasets. First, I downloaded daily stock prices from CRSP for all US publicly traded stocks during 2019, which is almost 2 million observations. Then, I downloaded a Coronavirus dataset from [Our world in data](https://ourworldindata.org/). I wrote a little Python script using Pandas and Numpy to get the distribution of leading non-zero digits and... Benford's Law holds! Amazing! Below is a one of the distribution plots I generated. I wrote a more detailed blog post [here](./blog/benford/benfords_law.html).
 
-![Benford2](https://github.com/alvaroaguirre/Projects/blob/master/Benfords/benfords_covid.png?raw=true)
+![Benford2](./blog/benford/benford_corona.svg)
 
 ### Numerical computing language speed: R, Julia, Matlab and Python
 
