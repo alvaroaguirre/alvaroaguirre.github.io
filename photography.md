@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Photography
+## Film photography
 
 <center class = "photo_title" ><i>Big frog</i></center>
 <img class = "photo" src="./assets/photos/bigfrog.jpeg">
