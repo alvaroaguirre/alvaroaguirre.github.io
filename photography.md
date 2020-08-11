@@ -4,6 +4,27 @@ layout: default
 
 ## Photography
 
+<center class = "photo_title" ><i>Big frog</i></center>
+<img class = "photo" src="./assets/photos/bigfrog.jpeg">
+
+<center class = "photo_title" ><i>Dressed up</i></center>
+<img class = "photo" src="./assets/photos/dressed.jpeg">
+
+<center class = "photo_title" ><i>Rails</i></center>
+<img class = "photo" src="./assets/photos/rails.jpeg">
+
+<center class = "photo_title" ><i>Hanging</i></center>
+<img class = "photo" src="./assets/photos/hanging.jpeg">
+
+<center class = "photo_title" ><i>Honest Greens</i></center>
+<img class = "photo" src="./assets/photos/honest.jpeg">
+
+<center class = "photo_title" ><i>Electricity</i></center>
+<img class = "photo" src="./assets/photos/electric.jpeg">
+
+<center class = "photo_title" ><i>Libros</i></center>
+<img class = "photo" src="./assets/photos/libros.jpeg">
+
 <center class = "photo_title" ><i>#LollypopLounge <br> Heavily expired Ilfocolor</i></center>
 
 <img class = "photo" src="https://user-images.githubusercontent.com/29491896/89324612-d9217900-d687-11ea-9ba6-9ccf1992eb95.jpeg">
