@@ -10,7 +10,7 @@ Welcome to my personal webpage. Here you will find information about me, what I 
 
 I am Alvaro. I like data, math, coffee, blues, film photography, and books.
 
-Currently, I am working as a Summer Researcher at the [Systemic Risk Centre](http://www.systemicrisk.ac.uk). My work consists of developing code in Julia, Python, R, and MATLAB for financial risk forecasting algorithms. After the summer, I will spend a few months off before joining [Bain & Company](https://www.bain.com) in January 2021 as an Associate Consultant in the Madrid office.
+Currently, I am working as a Researcher at the [Systemic Risk Centre](http://www.systemicrisk.ac.uk). My work consists of developing code in Julia, Python, R, and MATLAB for financial risk forecasting algorithms. I will be joining [Bain & Company](https://www.bain.com) in January 2021 as an Associate Consultant in the Madrid office.
 
 I recently completed my masters degree in Econometrics and Mathematical Economics at the London School of Economics with a Distinction (more info on my program [here](http://www.lse.ac.uk/study-at-lse/Graduate/Degree-programmes-2019/MSc-Econometrics-and-Mathematical-Economics)), with a full scholarship from the [Fundación Ramón Areces](https://www.fundacionareces.es/fundacionareces/en/). Previously, I earned a BSc in Economics from the Universdad Carlos III de Madrid, graduating summa cum laude. I also spent a year as a visiting student at UC Berkeley.
 
