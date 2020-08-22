@@ -55,7 +55,7 @@ I had to do some work with data from the Bank for International Settlements. I b
 
 I find natural language data very interesting, especially after reading Ben Blatt's _Nabokov's favorite word is mauve_. I mostly do my data work in R, so I decided to try to use basic Python and Pandas to do some simply analysis on Whatsapp conversations. You can easily export chats from the Whatsapp app, so I wrote some code that gets and plots the daily messages sent, groups them by sender, checks the average message length, and finally gives you the most common words used by sender, excluding stopwords. The code has been made general, so you can check out the Jupyter notebook [here](https://github.com/alvaroaguirre/Projects/blob/master/Whatsapp/whatsapp.ipynb) and try it with your own chat.
 
-![Whatsapp](https://raw.githubusercontent.com/alvaroaguirre/Projects/master/Whatsapp/whatsapp.png)
+![Whatsapp](https://raw.githubusercontent.com/alvaroaguirre/Projects/master/Whatsapp/whatsapp.svg)
 
 
 ### Building Sierpiński triangles 
