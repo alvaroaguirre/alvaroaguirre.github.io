@@ -49,7 +49,7 @@ Due to the pandemic I had to work on my personal computer while doing research f
 
 I had to do some work with data from the Bank for International Settlements. I built an R notebook that automatically downloads data from the BIS using an API and creates functions to easily make plots for credits to the non-financial sector, including: government, households, private non-fin, non-fin corporations, non-fin sector. The plots can be created for a single country or for several countries with the same syntax. You can find the notebook [here](https://github.com/alvaroaguirre/Projects/tree/master/BIS), and a sample plot:
 
-![](https://raw.githubusercontent.com/alvaroaguirre/Projects/master/BIS/non-financial-2005.png)
+![](https://raw.githubusercontent.com/alvaroaguirre/Projects/master/BIS/non-financial-2005.svg)
 
 ### Simple Whatsapp conversation analysis with Python
 
