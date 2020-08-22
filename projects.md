@@ -14,8 +14,8 @@ I recently learned about [Benford's Law](https://en.wikipedia.org/wiki/Benford%2
 
 While doing research at the Systemic Risk Centre, I wrote an article with Jon Danielsson published in [Vox EU](https://voxeu.org/article/which-programming-language-best-economic-research) about the speed of numerical computing languages for finance. In particular, we wanted to test R, Julia, Matlab and Python. We performed various benchmark tests. For example, we read a large dataset both compressed (~1GB) and uncompressed (~8GB), which includes all the CRSP database. R's data.table package was unparalled for this task. We also performed a GARCH log-likelihood calculations and compared the computing time with a code we wrote in C, which was of course the fastest. Here Julia and Matlab beated base R and base Python, but when decorating R with Rcpp and Python with Numba, these were the fastest. We also included a test on performing group calcuations on the large dataset. You can find all the details in [this](https://github.com/alvaroaguirre/Projects/tree/master/Speed) github repository. 
 
-![Reading_speed](https://github.com/alvaroaguirre/Projects/blob/master/Speed/plots/svg/reading_time.svg?raw=true)
-![Computing_speed](https://github.com/alvaroaguirre/Projects/blob/master/Speed/plots/svg/garch.svg?raw=true)
+![Reading_speed](./media/reading_time.svg)
+![Computing_speed](./media/garch.svg)
 
 ### Chaotic Art 
 
