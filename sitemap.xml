@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://alvaroaguirre.com/</loc>
+  <lastmod>2020-08-23T10:40:43+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://alvaroaguirre.com/index.html</loc>
+  <lastmod>2020-08-23T10:40:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://alvaroaguirre.com/projects.html</loc>
+  <lastmod>2020-08-23T10:40:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://alvaroaguirre.com/blog.html</loc>
+  <lastmod>2020-08-23T10:40:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://alvaroaguirre.com/photography.html</loc>
+  <lastmod>2020-08-23T10:40:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://alvaroaguirre.com/coffee.html</loc>
+  <lastmod>2020-08-23T10:40:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://alvaroaguirre.com/useful_useless.html</loc>
+  <lastmod>2020-08-23T10:40:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://alvaroaguirre.com/blog/benford/benfords_law.html</loc>
+  <lastmod>2020-08-23T10:40:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alvaroaguirre.com/blog/nonlinear/NonlinearDynamics.html</loc>
+  <lastmod>2020-08-23T10:40:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
