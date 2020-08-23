@@ -4,7 +4,7 @@ layout: default
 
 ## Home
 
-Welcome to my personal webpage. Here you will find information about me, what I am currently up to, the projects I have worked on, and things I am passionate about, like specialty coffee and film photography.
+Welcome to my personal webpage. Here you will find information about me, what I am up to, the projects I have worked on, and things I am passionate about, like specialty coffee and film photography.
 
 ### Who am I and what am I up to?
 
@@ -21,7 +21,6 @@ You can get my CV [here](/assets/docs/CV_AlvaroAguirre.pdf).
 After finishing my bachelor's degree, I spent a year working at Amazon. I was a Project Manager focused on Data for the Kindle team. I led various projects that involved diving deep into data to solve fun problems or improve internal processes. Most of the projects used a mix of SQL, VBA, Amazon Redshift, HTML, DaraWarehousing, and R. I also organized and gave workshops on SQL coding and how to pose and answer interesting questions using data. 
 
 Before Amazon, I worked at a small consulting firm in Madrid doing Econometrics modeling, trying to find causal effects. The project consisted on measuring the impact of a training program for insurance managers of the largest Spanish bank on sales. I mainly used STATA for the analysis and regressions.
-
 
 ### Contact me
 
