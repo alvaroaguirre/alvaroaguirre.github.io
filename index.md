@@ -16,7 +16,7 @@ I recently completed my masters degree in Econometrics and Mathematical Economic
 
 ### What have I done before?
 
-You can download my CV [here](https://www.dropbox.com/s/9xs8m1rikbwz24m/CV_AlvaroAguirre.pdf?dl=1).
+You can download my CV <a href="https://www.dropbox.com/s/9xs8m1rikbwz24m/CV_AlvaroAguirre.pdf?dl=1" target="_blank">here</a>.
 
 After finishing my bachelor's degree, I spent a year working at Amazon. I was a Project Manager focused on Data for the Kindle team. I led various projects that involved diving deep into data to solve fun problems or improve internal processes. Most of the projects used a mix of SQL, VBA, Amazon Redshift, HTML, DaraWarehousing, and R. I also organized and gave workshops on SQL coding and how to pose and answer interesting questions using data. 
 
