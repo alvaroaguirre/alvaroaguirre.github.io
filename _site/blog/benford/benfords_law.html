@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Alvaro Aguirre">
+    <meta name="keywords" content="Alvaro, Aguirre, Moya">
+    <meta name="description" content="Alvaro Aguirre's personal website. I am interested in data, math, blues, and film photography. Researcher at the SRC and incoming analyst at Bain. Previously at LSE and Amazon.">
 
 <!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Alvaro Aguirre</title>
@@ -23,6 +26,8 @@
     <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
   </head>
   <body>
@@ -104,7 +109,7 @@
 
 <p>I wrote a <a href="./benfords.py">Python script</a> that downloads a complete Coronavirus dataset from <a href="https://ourworldindata.org/coronavirus">Our World in Data</a> and checks the frequency of leading digits. Since Benford’s law is supposed to be robust to changes in units, I checked two variables, the daily number of new cases per country, and the total number of cases per million per country per day. The results are show in the bar plot below, with the expected frequency according to Benford’s Law in blue.</p>
 
-<p><img src="benford_corona.png" alt="Benfords" /></p>
+<p><img src="benford_corona.svg" alt="Benfords" /></p>
 
 <p>It is amazing how the data from something so unexpected, so anomalous, like the Corona crisis, still follows some regularities.</p>
 

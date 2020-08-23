@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Alvaro Aguirre">
+    <meta name="keywords" content="Alvaro, Aguirre, Moya">
+    <meta name="description" content="Alvaro Aguirre's personal website. I am interested in data, math, blues, and film photography. Researcher at the SRC and incoming analyst at Bain. Previously at LSE and Amazon.">
 
 <!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Alvaro Aguirre</title>
@@ -23,6 +26,8 @@
     <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
   </head>
   <body>
@@ -75,8 +80,8 @@
 
 <p>While doing research at the Systemic Risk Centre, I wrote an article with Jon Danielsson published in <a href="https://voxeu.org/article/which-programming-language-best-economic-research">Vox EU</a> about the speed of numerical computing languages for finance. In particular, we wanted to test R, Julia, Matlab and Python. We performed various benchmark tests. For example, we read a large dataset both compressed (~1GB) and uncompressed (~8GB), which includes all the CRSP database. R’s data.table package was unparalled for this task. We also performed a GARCH log-likelihood calculations and compared the computing time with a code we wrote in C, which was of course the fastest. Here Julia and Matlab beated base R and base Python, but when decorating R with Rcpp and Python with Numba, these were the fastest. We also included a test on performing group calcuations on the large dataset. You can find all the details in <a href="https://github.com/alvaroaguirre/Projects/tree/master/Speed">this</a> github repository.</p>
 
-<p><img src="https://raw.githubusercontent.com/alvaroaguirre/Projects/f77d54118933e726a2dcce0d862dbd778d5c5ddd/Speed/plots/svg/reading_time.svg" alt="Reading_speed" />
-<img src="https://github.com/alvaroaguirre/Projects/blob/master/Speed/plots/png_large/garch.png?raw=true" alt="Computing_speed" /></p>
+<p><img src="https://raw.githubusercontent.com/alvaroaguirre/Projects/master/Speed/plots/svg/reading_time.svg" alt="Reading_speed" />
+<img src="https://raw.githubusercontent.com/alvaroaguirre/Projects/master/Speed/plots/svg/garch.svg" alt="Computing_speed" /></p>
 
 <h3 id="chaotic-art">Chaotic Art</h3>
 
@@ -109,13 +114,13 @@
 
 <p>I had to do some work with data from the Bank for International Settlements. I built an R notebook that automatically downloads data from the BIS using an API and creates functions to easily make plots for credits to the non-financial sector, including: government, households, private non-fin, non-fin corporations, non-fin sector. The plots can be created for a single country or for several countries with the same syntax. You can find the notebook <a href="https://github.com/alvaroaguirre/Projects/tree/master/BIS">here</a>, and a sample plot:</p>
 
-<p><img src="https://raw.githubusercontent.com/alvaroaguirre/Projects/master/BIS/non-financial-2005.png" alt="" /></p>
+<p><img src="https://raw.githubusercontent.com/alvaroaguirre/Projects/master/BIS/non-financial-2005.svg" alt="" /></p>
 
 <h3 id="simple-whatsapp-conversation-analysis-with-python">Simple Whatsapp conversation analysis with Python</h3>
 
 <p>I find natural language data very interesting, especially after reading Ben Blatt’s <em>Nabokov’s favorite word is mauve</em>. I mostly do my data work in R, so I decided to try to use basic Python and Pandas to do some simply analysis on Whatsapp conversations. You can easily export chats from the Whatsapp app, so I wrote some code that gets and plots the daily messages sent, groups them by sender, checks the average message length, and finally gives you the most common words used by sender, excluding stopwords. The code has been made general, so you can check out the Jupyter notebook <a href="https://github.com/alvaroaguirre/Projects/blob/master/Whatsapp/whatsapp.ipynb">here</a> and try it with your own chat.</p>
 
-<p><img src="https://raw.githubusercontent.com/alvaroaguirre/Projects/master/Whatsapp/whatsapp.png" alt="Whatsapp" /></p>
+<p><img src="https://raw.githubusercontent.com/alvaroaguirre/Projects/master/Whatsapp/whatsapp.svg" alt="Whatsapp" /></p>
 
 <h3 id="building-sierpiński-triangles">Building Sierpiński triangles</h3>
 

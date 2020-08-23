@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Alvaro Aguirre">
+    <meta name="keywords" content="Alvaro, Aguirre, Moya">
+    <meta name="description" content="Alvaro Aguirre's personal website. I am interested in data, math, blues, and film photography. Researcher at the SRC and incoming analyst at Bain. Previously at LSE and Amazon.">
+
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Alvaro Aguirre</title>
+<meta name="generator" content="Jekyll v4.1.0" />
+<meta property="og:title" content="Alvaro Aguirre" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A very short introduction to Non-Linear Dynamics" />
+<meta property="og:description" content="A very short introduction to Non-Linear Dynamics" />
+<link rel="canonical" href="http://localhost:4000/blog/nonlinear/NonlinearDynamics.html" />
+<meta property="og:url" content="http://localhost:4000/blog/nonlinear/NonlinearDynamics.html" />
+<meta property="og:site_name" content="Alvaro Aguirre" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/blog/nonlinear/NonlinearDynamics.html","headline":"Alvaro Aguirre","description":"A very short introduction to Non-Linear Dynamics","@type":"WebPage","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=">
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Alvaro Aguirre</h1>
+        
+          <img class = "headshot" src="https://user-images.githubusercontent.com/29491896/85273864-12a27a00-b476-11ea-88c4-d7cd6b621b91.png" alt="If you can read this, my photo is not showing up." />
+          
+        <div class = "menu">
+            
+            <ul class = "icons">
+                <li><a href="https://github.com/alvaroaguirre" target="_blank"><i class="fab fa-github" style="font-size: 30px"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/alvaro-aguirre/" target="_blank"><i class="fab fa-linkedin-in" style="font-size: 30px"></i></a></li>
+                <li><a href="mailto:alvaroaguirre@outlook.com"><i class="far fa-envelope" style="font-size: 30px"></i></a></li>
+            </ul>
+
+            <ul class="nav">
+                <li class="nav-item">
+                <a class="nav-link active" href="../../index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link active" href="../../projects.html">Projects</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link active" href="../../blog.html">Blog</a>
+                </li>                
+                <li class="nav-item">
+                <a class="nav-link active" href="../../photography.html">Film photography</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link active" href="../../coffee.html">Coffee</a>
+                <li class="nav-item">
+                <a class="nav-link active" href="../../useful_useless.html">Useful and useless</a>
+                </li>
+              </ul>
+          </div>
+      </header>
+      <section>
+
+      <h1 id="a-very-short-introduction-to-non-linear-dynamics">A very short introduction to Non-Linear Dynamics</h1>
+
+<h3 id="alvaro-aguirre---august-2020">Alvaro Aguirre - August 2020</h3>
+
+<p>During my time at the LSE I studied Non-Linear Dynamics and chaotic systems, and found it fascinating. We normally think in linear terms, which is a huge problem because the world is highly non-linear. So in this short post I want to give you a very brief and basic introduction to chaos theory.</p>
+
+<p><img src="https://user-images.githubusercontent.com/29491896/73464959-951b8780-4377-11ea-9705-a746c01f4d52.png" alt="Lorenz' strange attractor" /></p>
+
+<p><em>“It used to be thought that the events that changed the world were things like big bombs, maniac politicians, huge earthquakes, or vast population movements, but it has now been realized that this is a very old-fashioned view held by people totally out of touch with modern thought. The things that change the world, according to Chaos theory, are the tiny things. A butterfly flaps its wings in the Amazonian jungle, and subsequently a storm ravages half of Europe.”</em> 
+— Terry Pratchett and Neil Gaiman</p>
+
+<p>In a non-linear system, a change in output is not proportional to a change in inputs. And this very simple characteristic makes studying the dynamics of this type of systems very fun. To give you a first taste of the power of non-linearities, consider the next two options:</p>
+
+<p>1) I will give you 10 million dollars each day for the next 100 days.
+2) I will give you only one cent today, but every day for the next 100 days, the amount of money you have will double.</p>
+
+<p>If you choose option 1, which clearly sounds more appealing at first glance, you will end up with the modest sum one billion dollars. Not bad… But if you had chosen option 2, you would have ended up with 6.33e27 dollars, which is roughly about 7 <strong>trillion</strong> times the GDP of the world.</p>
+
+<p>But what I want to tell you about non-linear systems goes beyond the difference between linear and exponential, which you probably already know. It is how sensitive a non-linear system can be to its initial conditions. The quote above mentions the famous “butterfly effect”. The metaphors tells us that a tiny change in the initial condition of a system, which for our linear minds should make no difference at all, can actually make a <strong>huge</strong> difference in the dynamics of the system over time. The graph above, which resembles a butterfly’s wings, is actually one of Ed Lorenz’ <a href="https://en.wikipedia.org/wiki/Lorenz_system">strange attractors</a>. He is considered to be the father of Chaos Theory.</p>
+
+<p>Perhaps the best way to illustrate the beauty of non-linear dynamics is with a graphical example. So let’s consider a system that evolves according to the following rule:
+\(x_{n+1} = a x_n (1-x_n)\)
+<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ed93f3cd8504352c79c6fc9206e1e9bfac0e3c37" alt="Logistic Map" />. This is the famous Logistic Map. The system is initialized with an initial condition, which we shall call $x_0$, and a given parameter value for r (I will use a instead of r). Then we just let the system “run”. At every iteration, we will get a new value of x, which will then become the “input” in the next iteration, and so on…</p>
+
+<p>So how will this system behave over time? I have to give you the classical economist answer: it depends! And boy does it depend… We will see that the dynamics of the system can be absolutely different depending on the parameter value we set. Here is where our linear minds come in and say <em>“I’m pretty sure tiny changes in a won’t make much of a difference”</em>, or that is at least what my linear mind thought before tackling this problem. Let’s see what happens.</p>
+
+<p>The next graph shows the dynamics of the system for different values of the parameter a. Each point in the graph is the state of the system after running for a long time (&gt;=1024 iterations), where the initial condition x0 has been drawn from a Uniform(0,1) distribution.</p>
+
+<p><img src="https://user-images.githubusercontent.com/29491896/73464369-b760d580-4376-11ea-9336-2872ac243a18.png" alt="First graph" /></p>
+
+<p>So how do we interpret this? Consider the value a = 2.8. We see there is only one point as the image, at around x = 0.64. That means that the dynamics of the Logistic Map for a = 2.8 is just a single attractor. So, over time, the system reachs a point and stays there. What about a value of a = 3.2? We then see that it maps to two values of x, meaning that for such value of the parameter, the state will have two attractors and will be stuck looping between those two points forever. As you can see, the behavior of the system over time is absolutely different depending on the value of a. In particular, we can see a bifurcation diagram. For small values of a, we have a single value of x, then, for some value of a, it splits into two, after a while, it splits again into four, after another while (but shorter this time), it splits into eight, then sixteen, and shortly we cannot keep track anymore, it’s chaotic! For a value like a = 4, we have no idea of what’s going on. The system keeps moving around between 0 and 1 with no apparent pattern.</p>
+
+<p>BUT, that is not the cool part. You have probably already noticed something very odd in the graph. What happens at around a = 3.84!? A three-period loop? In the middle of that messy chaotic system? There’s something weird going on there. We had a well-behaved bifurcation diagram, and for some reason it just condenses into a period-three loop for some values of a. Let’s zoom into this region to see what is happening:</p>
+
+<p><img src="https://user-images.githubusercontent.com/29491896/73464370-b7f96c00-4376-11ea-96ea-b1c76e113057.png" alt="Second graph" /></p>
+
+<p>Ok so zooming in, it turns out it was not a single point of a, but there is an entire bifurcating system within our bigger system! The system is jumping around, behaving chaotically, and then it immediately condenses into three points. It is not a smooth reduction, but a sharp one. For some value of a, the dynamics drastically change and the system seems to behave “nicely”, with x jumping between just three values. With further increases in a, we see how chaos re-emerges in our system, with new bifurcations, but then again, there is a sudden change at around a = 3.857.</p>
+
+<p>Let’s zoom in once again:</p>
+
+<p><img src="https://user-images.githubusercontent.com/29491896/73464371-b7f96c00-4376-11ea-86b2-a7a3dc37c0da.png" alt="Third graph" /></p>
+
+<p>Here we can see a close-up on how the system condenses into a period-three loop. We are already looking at differences of less than a thousandth of a. Imagine you are a researcher conducting an experiment, and you have to set up the value of the parameter a, and you are not sure if you should pick 3.82842 or 3.82843. Of course the output of any model changes with changes in the parameters, but here we are talking about a drastic change in the behavior of the system (from chaotic to period-three). This is a case where a rounding error can have a <strong>huge</strong> impact on your results. You might think <em>Oh it’s all good, I work with a very fancy computer, no rounding errors</em>. Digital computers, by definition, will always make tiny rounding errors (a study done at UCL about this can be found <a href="https://www.ucl.ac.uk/news/2019/sep/numbers-limit-how-accurately-digital-computers-model-chaos">here</a>). If you don’t believe me, try this simple addition on any programming language in your computer: 0.1 + 0.2 - 0.3.</p>
+
+<p>Mathematically, of course, this is zero. I just ran this on Python on my Terminal, surprise: <img src="https://user-images.githubusercontent.com/29491896/73473383-930bf580-4384-11ea-8f7e-876261d63709.png" alt="Non-zero" /></p>
+
+<p>Yes, this is a very, very, very small number. But as I just showed you above, in some systems, even the smallest difference can have a drastic effect.</p>
+
+<h2 id="so-what-will-you-find-in-this-repo">So what will you find in this repo?</h2>
+
+<p>I hoped you enjoyed this very brief introduction. I will be posting here some R code that gives insights on non-linear dynamics!</p>
+
+
+      </section>
+        
+    <footer>
+        Alvaro Aguirre - 2020
+        </footer>
+
+  </body>
+</html>
