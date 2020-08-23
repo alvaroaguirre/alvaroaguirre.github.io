@@ -24,7 +24,7 @@ But what I want to tell you about non-linear systems goes beyond the difference 
 
 Perhaps the best way to illustrate the beauty of non-linear dynamics is with a graphical example. So let's consider a system that evolves according to the following rule:  
 $$x_{n+1} = a x_n (1-x_n)$$  
-This is the famous Logistic Map. The system is initialized with an initial condition, which we shall call $x_0$, and a given parameter value for $a$. Then we just let the system "run". At every iteration, we will get a new value of $x$, which will then become the "input" in the next iteration, and so on...
+This is the famous Logistic Map. The system is initialized with an initial condition, which we shall call $$x_0$$, and a given parameter value for $a$. Then we just let the system "run". At every iteration, we will get a new value of $$x$$, which will then become the "input" in the next iteration, and so on...
 
 So how will this system behave over time? I have to give you the classical economist answer: it depends! And boy does it depend... We will see that the dynamics of the system can be absolutely different depending on the parameter value we set. Here is where our linear minds come in and say _"I'm pretty sure tiny changes in a won't make much of a difference"_, or that is at least what my linear mind thought before tackling this problem. Let's see what happens.
 
