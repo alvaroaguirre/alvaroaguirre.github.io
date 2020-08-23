@@ -15,7 +15,7 @@ _“It used to be thought that the events that changed the world were things lik
 
 In a non-linear system, a change in output is not proportional to a change in inputs. And this very simple characteristic makes studying the dynamics of this type of systems very fun. To give you a first taste of the power of non-linearities, consider the next two options:
 
-1) I will give you 10 million dollars each day for the next 100 days.
+1) I will give you 10 million dollars each day for the next 100 days.  
 2) I will give you only one cent today, but every day for the next 100 days, the amount of money you have will double.
 
 If you choose option 1, which clearly sounds more appealing at first glance, you will end up with the modest sum one billion dollars. Not bad... But if you had chosen option 2, you would have ended up with 6.33e27 dollars, which is roughly about 7 **trillion** times the GDP of the world. 
