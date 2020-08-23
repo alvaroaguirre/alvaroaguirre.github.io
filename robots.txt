@@ -1,0 +1,7 @@
+Sitemap: https://www.alvaroaguirre.com/sitemap.xml
+
+User-agent: *
+Disallow: /assets/
+
+User-agent: *
+Disallow: /photos/
