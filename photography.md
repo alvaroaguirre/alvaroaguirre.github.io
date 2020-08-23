@@ -5,25 +5,25 @@ layout: default
 ## Film photography
 
 <center class = "photo_title" ><i>Big frog</i></center>
-<img class = "photo" src="./photos/bigfrog.jpeg">
+<img class = "photo" src="/photos/bigfrog.jpeg">
 
 <center class = "photo_title" ><i>Dressed up</i></center>
-<img class = "photo" src="./photos/dressed.jpeg">
+<img class = "photo" src="/photos/dressed.jpeg">
 
 <center class = "photo_title" ><i>Rails</i></center>
-<img class = "photo" src="./photos/rails.jpeg">
+<img class = "photo" src="/photos/rails.jpeg">
 
 <center class = "photo_title" ><i>Hanging</i></center>
-<img class = "photo" src="./photos/hanging.jpeg">
+<img class = "photo" src="/photos/hanging.jpeg">
 
 <center class = "photo_title" ><i>Honest Greens</i></center>
-<img class = "photo" src="./photos/honest.jpeg">
+<img class = "photo" src="/photos/honest.jpeg">
 
 <center class = "photo_title" ><i>Electricity</i></center>
-<img class = "photo" src="./photos/electric.jpeg">
+<img class = "photo" src="/photos/electric.jpeg">
 
 <center class = "photo_title" ><i>Libros</i></center>
-<img class = "photo" src="./photos/libros.jpeg">
+<img class = "photo" src="/photos/libros.jpeg">
 
 <center class = "photo_title" ><i>#LollypopLounge <br> Heavily expired Ilfocolor</i></center>
 
