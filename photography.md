@@ -5,7 +5,7 @@ layout: default
 ## Film photography
 
 <center class = "photo_title" ><i>Big frog</i></center>
-<img class = "photo" src="/photos/bigfrog.jpeg">
+<img class = "photo" src="https://raw.githubusercontent.com/alvaroaguirre/Alvaro-Aguirre/master/photos/bigfrog.jpeg">
 
 <center class = "photo_title" ><i>Dressed up</i></center>
 <img class = "photo" src="/photos/dressed.jpeg">

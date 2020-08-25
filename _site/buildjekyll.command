@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /Users/alvaroaguirre/Documents/AlvaroAguirre
+cd /Users/alvaroaguirre/Website
 
 open -a safari 'http://127.0.0.1:4000'
 

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /Users/alvaroaguirre/Documents/AlvaroAguirre
+cd /Users/alvaroaguirre/Website
 
 git add .
 
