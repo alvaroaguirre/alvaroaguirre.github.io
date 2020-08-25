@@ -4,8 +4,11 @@ layout: default
 
 ## Film photography
 
+<center class = "photo_title" ><i>Spanish sea</i></center>
+<img class = "photo" src="/photos/spanish-sea.jpeg">
+
 <center class = "photo_title" ><i>Big frog</i></center>
-<img class = "photo" src="https://raw.githubusercontent.com/alvaroaguirre/Alvaro-Aguirre/master/photos/bigfrog.jpeg">
+<img class = "photo" src="/photos/bigfrog.jpeg">
 
 <center class = "photo_title" ><i>Dressed up</i></center>
 <img class = "photo" src="/photos/dressed.jpeg">
