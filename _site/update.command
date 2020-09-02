@@ -4,6 +4,6 @@ cd /Users/alvaroaguirre/Website
 
 git add .
 
-git commit -m 'Small fix'
+git commit -m 'New content'
 
 git push origin master

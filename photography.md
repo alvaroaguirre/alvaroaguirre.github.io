@@ -4,6 +4,18 @@ layout: default
 
 ## Film photography
 
+<center class = "photo_title" ><i>Family stroll</i></center>
+<img class = "photo" src="/photos/ducks.jpeg">
+
+<center class = "photo_title" ><i>Birdman</i></center>
+<img class = "photo" src="/photos/birdman.jpeg">
+
+<center class = "photo_title" ><i>Pseudo-painting on brick wall</i></center>
+<img class = "photo" src="/photos/painting_on_brick.jpeg">
+
+<center class = "photo_title" ><i>Soft green</i></center>
+<img class = "photo" src="/photos/shades_green.jpeg">
+
 <center class = "photo_title" ><i>Spanish sea</i></center>
 <img class = "photo" src="/photos/spanish-sea.jpeg">
 
