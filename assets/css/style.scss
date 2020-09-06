@@ -4,36 +4,36 @@
 @import "{{ site.theme }}";
 
 body {
-    background-color: #393E41;
-    color: #F6F7EB;
+    background-color: #FFF9FB;
+    color: #252627;
     font-size: 12pt;
 }
 
 a {
-   color: #44BBA4; 
+   color: #BB0A21; 
 }
 
 a:hover {
-    color: #44BBA4;
+    color: #BB0A21;
     font-weight: 800;
 }
 
 h1 {
-    color: #E94F37;
+    color: #252627;
     text-align: center;
 
 }
 
 h2 {
-  color: #E94F37;
+  color: #252627;
 }
 
 h3 {
-    color: #E94F37;
+    color: #252627;
 }
 
 h4 {
-    color: #44BBA4;
+    color: #252627;
 }
 
 .headshot {
@@ -59,15 +59,26 @@ h4 {
 }
 
 .nav-item {
-    border-style: solid;
+    //border-style: solid;
     margin-bottom: 10px;
     border-width: thin;
+    background-color: #FFF9FB;
+}
+
+.nav-link {
+    color: #BB0A21;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.nav-link:hover {
+    opacity: 0.6;
 }
 
 footer {
     text-align: center;
     font-size: 10pt;
-    color: silver;
+    color: #252627;
 }
 
 header{
@@ -97,10 +108,10 @@ header{
 }
 
 b, strong {
-   color: #F6F7EB;
+   color: #252627;
    }
 
 th {
-    color: #F6F7EB;
+    color: #252627;
     text-align: center;
 }

@@ -8,18 +8,18 @@ layout: default
 
 #### 7-day rolling average
 
-![daily7](./assets/plots/daily_cases_smooth.svg)
+![daily7](https://raw.githubusercontent.com/alvaroaguirre/Projects/master/Covid/daily_cases_smooth.svg)
 
 #### Daily new cases
 
-![daily7](./assets/plots/daily_cases.svg)
+![daily7](https://raw.githubusercontent.com/alvaroaguirre/Projects/master/Covid/daily_cases.svg)
 
 ### Deaths
 
 #### 7-day rolling average
 
-![daily7](./assets/plots/daily_deaths_smooth.svg)
+![daily7](https://raw.githubusercontent.com/alvaroaguirre/Projects/master/Covid/daily_deaths_smooth.svg)
 
 #### Daily new deaths
 
-![daily7](./assets/plots/daily_deaths.svg)
+![daily7](https://raw.githubusercontent.com/alvaroaguirre/Projects/master/Covid/daily_deaths.svg)

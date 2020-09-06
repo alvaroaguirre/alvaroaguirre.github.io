@@ -218,19 +218,19 @@ ul.icons { list-style: none; height: 40px; padding: 0; margin: auto; margin-bott
 
 .icons li a:hover { opacity: 0.5; }
 
-body { background-color: #393E41; color: #F6F7EB; font-size: 12pt; }
+body { background-color: #FFF9FB; color: #252627; font-size: 12pt; }
 
-a { color: #44BBA4; }
+a { color: #BB0A21; }
 
-a:hover { color: #44BBA4; font-weight: 800; }
+a:hover { color: #BB0A21; font-weight: 800; }
 
-h1 { color: #E94F37; text-align: center; }
+h1 { color: #252627; text-align: center; }
 
-h2 { color: #E94F37; }
+h2 { color: #252627; }
 
-h3 { color: #E94F37; }
+h3 { color: #252627; }
 
-h4 { color: #44BBA4; }
+h4 { color: #252627; }
 
 .headshot { margin-bottom: 20px; max-width: 250px; display: block; margin-left: auto; margin-right: auto; }
 
@@ -238,9 +238,13 @@ h4 { color: #44BBA4; }
 
 .nav { list-style-type: none; margin: 0; padding: 0; text-align: center; font-size: 12pt; }
 
-.nav-item { border-style: solid; margin-bottom: 10px; border-width: thin; }
+.nav-item { margin-bottom: 10px; border-width: thin; background-color: #FFF9FB; }
 
-footer { text-align: center; font-size: 10pt; color: silver; }
+.nav-link { color: #BB0A21; font-weight: bold; text-decoration: underline; }
+
+.nav-link:hover { opacity: 0.6; }
+
+footer { text-align: center; font-size: 10pt; color: #252627; }
 
 header { overflow: scroll; }
 
@@ -258,8 +262,8 @@ header { overflow: scroll; }
 */
 .photo_title { margin-top: 20px; margin-bottom: 10px; }
 
-b, strong { color: #F6F7EB; }
+b, strong { color: #252627; }
 
-th { color: #F6F7EB; text-align: center; }
+th { color: #252627; text-align: center; }
 
 /*# sourceMappingURL=style.css.map */
