@@ -25,11 +25,11 @@ fig = plt.figure(figsize=(12,8), dpi= 100, facecolor='w', edgecolor='k')
 plt.rcParams.update({'font.size': 20})
 ax = plt.subplot(111)
 ax.bar(benfords_law_new_cases.index - 0.2, benfords_law_new_cases, width = 0.4, align='center', 
-       label = 'Daily new cases', color = '#DDD8C4')
+       label = 'Daily new cases', color = '#BB0A21')
 ax.bar(benfords_law_new_cases.index, benfords_law_total_cases, width = 0.4, align='center', 
-       label = 'Total cases per million', color = '#A3C9A8')
+       label = 'Total cases per million', color = '#4B88A2')
 ax.bar(benfords_law_new_cases.index + 0.2, benfords_law_theory, width = 0.4, align='center', 
-       label = "Benford's law", color ='#50808E')
+       label = "Benford's law", color ='#D3D4D9')
 plt.title("Benford's Law and Corona")
 plt.xlabel("Leading digit")
 plt.ylabel("Frequency (in %)")
@@ -38,7 +38,4 @@ ax.legend()
 plt.show()
 fig.savefig('benford_corona.png', bbox_inches="tight")
 fig.savefig('benford_corona.svg', bbox_inches="tight")
-
-
-
 

@@ -218,7 +218,7 @@ ul.icons { list-style: none; height: 40px; padding: 0; margin: auto; margin-bott
 
 .icons li a:hover { opacity: 0.5; }
 
-body { background-color: #FFF9FB; color: #252627; font-size: 12pt; }
+body { background-color: #FFFFFF; color: #252627; font-size: 12pt; }
 
 a { color: #BB0A21; }
 
@@ -238,7 +238,7 @@ h4 { color: #252627; }
 
 .nav { list-style-type: none; margin: 0; padding: 0; text-align: center; font-size: 12pt; }
 
-.nav-item { margin-bottom: 10px; border-width: thin; background-color: #FFF9FB; }
+.nav-item { margin-bottom: 10px; border-width: thin; background-color: #FFFFFF; }
 
 .nav-link { color: #BB0A21; font-weight: bold; text-decoration: underline; }
 
