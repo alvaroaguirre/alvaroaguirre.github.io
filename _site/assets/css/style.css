@@ -154,7 +154,7 @@ a small { font-size: 11px; color: #777; margin-top: -0.3em; display: block; }
 
 a:hover small { color: #777; }
 
-.wrapper { width: 860px; margin: 0 auto; overflow-y: auto;}
+.wrapper { width: 860px; margin: 0 auto; }
 
 blockquote { border-left: 1px solid #e5e5e5; margin: 0; padding: 0 0 0 20px; font-style: italic; }
 
@@ -172,7 +172,7 @@ th { color: #444; }
 
 img { max-width: 100%; }
 
-header { width: 270px; float: left; position: fixed; -webkit-font-smoothing: subpixel-antialiased; overflow-y: auto;}
+header { width: 270px; float: left; position: fixed; -webkit-font-smoothing: subpixel-antialiased; }
 
 ul.downloads { list-style: none; height: 40px; padding: 0; background: #f4f4f4; border-radius: 5px; border: 1px solid #e0e0e0; width: 270px; margin: auto; margin-bottom: 10px; }
 
@@ -246,7 +246,7 @@ h4 { color: #252627; }
 
 footer { text-align: center; font-size: 10pt; color: #252627; }
 
-header { overflow: scroll; }
+header { overflow: auto; }
 
 .photo { width: 100%; /*opacity: 0.6; filter: grayscale(50%);*/ }
 
