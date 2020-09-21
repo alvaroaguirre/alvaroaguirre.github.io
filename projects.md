@@ -14,7 +14,7 @@ While in quarantine, [Hannah Ker](https://hannahker.com) and I decided to do som
 
 ### Daily Covid tracking using AWS
 
-I built Python program that gets daily new cases and deaths, both in absolutes and 7-day rolling averages, and generates a plot that shows the evolution for Peru, Spain and the UK (my home country and the two countries where I have been living for the past couple of years). Since I wanted to learn about AWS, I initialized an EC2 instance and stored the code there, along with a bash script that runs it and pushes results to github daily according to a cron schedule. The plots can be found [here](https://alvaroaguirre.com/covid).
+I built a Python program that gets daily new cases and deaths, both in absolutes and 7-day rolling averages, and generates a plot that shows the evolution for Peru, Spain and the UK (my home country and the two countries where I have been living for the past couple of years). Since I wanted to learn about AWS, I initialized an EC2 instance and stored the code there, along with a bash script that runs it and pushes results to github daily according to a cron schedule. The plots can be found [here](https://alvaroaguirre.com/covid).
 
 ![daily7](https://raw.githubusercontent.com/alvaroaguirre/Projects/master/Covid/daily_cases_smooth.svg)
 
