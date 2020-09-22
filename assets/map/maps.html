@@ -127,14 +127,14 @@
 
             map.addLayer({
               'id': 'csvData',
-              'type': 'symbol',
+              'type': 'circle',
               'source': {
                 'type': 'geojson',
                 'data': data
               },
-              'layout': {
-                'icon-image': 'https://static.thenounproject.com/png/1025636-200.png',
-                'icon-size': 0.25
+              'paint': {
+                'circle-radius': 5,
+                'circle-color': "#BB0A21"
               }
             });
 
