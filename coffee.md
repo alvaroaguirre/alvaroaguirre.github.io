@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Coffee
+## Coffee and Cafés
 
 One of my biggest passions is specialty coffee. I frequently spend hours in coffee shops reading, and a few years ago I started talking to the baristas and owners trying to learn more about the coffee I was served. Where it came from, what process did the beans go through, how was it brewed. I discovered it was a fantastically complex world. During my masters degree, I explored this passion further by joining the Coffee Society of my College, participating in tastings, visits to cafés, and learning lots. Brewing coffee is an important part of my days, a very slow and relaxing time for myself. 
 
-I have an Instagram account where I post some brewing videos and other coffee related things: [@alvrew](https://www.instagram.com/alvrew/).
+### My Café Map
+
+I have created a Café Map, with my favorite coffeeshops in different parts of the world. Check it out here: 
+
+<a href="https://alvaroaguirre.com/assets/map/maps" target="_blank">Alvaro's Café Map</a>
 
 ### Beans
 
