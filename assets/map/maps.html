@@ -78,15 +78,7 @@
     .mapboxgl-popup-anchor-top>.mapboxgl-popup-tip {
       border-bottom-color: rgb(61, 59, 59);
     }
-      
-    .marker {
-        background-image: url('v60.svg');
-        background-size: cover;
-        width: 50px;
-        height: 50px;
-        border-radius: 50%;
-        cursor: pointer;
-}
+
   </style>
 </head>
 
@@ -135,14 +127,14 @@
 
             map.addLayer({
               'id': 'csvData',
-              'type': 'circle',
+              'type': 'symbol',
               'source': {
                 'type': 'geojson',
                 'data': data
               },
-              'paint': {
-                'circle-radius': 5,
-                'circle-color': "purple"
+              'layout': {
+                'icon-image': 'https://static.thenounproject.com/png/1025636-200.png',
+                'icon-size': 0.25
               }
             });
 
@@ -180,20 +172,6 @@
         });
       };
     });
-
-    // add markers to map
-    geojson.features.forEach(function(marker) {
-
-      // create a HTML element for each feature
-      var el = document.createElement('div');
-      el.className = 'marker';
-
-      // make a marker for each feature and add to the map
-      new mapboxgl.Marker(el)
-        .setLngLat(marker.geometry.coordinates)
-        .addTo(map);
-    });
-
 
   </script>
 
