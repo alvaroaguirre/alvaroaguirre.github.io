@@ -10,7 +10,7 @@ One of my biggest passions is specialty coffee. I frequently spend hours in coff
 
 I have created a Café Map, with my favorite coffeeshops in different parts of the world. Check it out here: 
 
-<a href="https://alvaroaguirre.com/assets/map/maps" target="_blank">Alvaro's Café Map</a>
+<a href="coffeemap.html" target="_blank">Alvaro's Café Map</a>
 
 ### Beans
 
