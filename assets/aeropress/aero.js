@@ -140,9 +140,11 @@ function generateRecipe() {
     document.getElementById("posit").innerHTML = "Place your Aeropress in the " + position + " position";
     document.getElementById("filter").innerHTML = "Put " + filter + " on the Aeropress cap and rinse";
     if(bloom != "") document.getElementById("bloom_amt").innerHTML = bloom + " " + stir_bloom;
+    if(bloom == "") document.getElementById("bloom_amt").innerHTML = "";
     if(bloom != "") document.getElementById("bloom_time").innerHTML = "Let the coffee bloom for " + bloomtime;
+    if(bloom == "") document.getElementById("bloom_time").innerHTML = "";
     if(bloom != "") document.getElementById("pour").innerHTML = "Pour the remaining water into the chamber. " + stir;
-    if(bloom == "") document.getElementById("pour").innerHTML = "Pour the water into the chamber." + stir;
+    if(bloom == "") document.getElementById("pour").innerHTML = "Pour the water into the chamber. " + stir;
     if(position == "inverted") document.getElementById("press").innerHTML = "After " + brewtime + ", flip the Aeropress and press grently";
     if(position != "inverted") document.getElementById("press").innerHTML = "After " + brewtime + ", put the plunger on the Aeropress and press grently";
   }
