@@ -18,6 +18,7 @@ I have created a Café Map, with my favorite coffeeshops in different parts of t
         </div>
     </a>
 </div>
+<br>
 
 ### Beans
 
