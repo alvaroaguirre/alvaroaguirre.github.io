@@ -11,6 +11,9 @@ One of my biggest passions is specialty coffee. I frequently spend hours in coff
 I have created a Café Map, with my favorite coffeeshops in different parts of the world. Check it out here: 
 
 <a href="coffeemap.html" target="_blank">Alvaro's Café Map</a>
+<a href="coffeemap.html">
+    <img alt="CoffeeMap" src="./assets/map/map.png">
+</a>
 
 ### Beans
 
