@@ -100,7 +100,6 @@ p {
 
 
 
-
 @media print, screen and (max-width: 1050px){
     
     .container{
@@ -121,3 +120,22 @@ p {
     }
 }
 
+@media print, screen and (max-width: 800px){
+    
+  .container{
+      flex-direction: column-reverse;
+      padding-top: 0px;
+      width: auto;
+      height: auto;
+  }
+
+  .image {
+    width: 100%;
+  }
+
+  #recipe {
+    display: none;
+    padding-top: 20px;
+    text-align: center;
+  }
+}
