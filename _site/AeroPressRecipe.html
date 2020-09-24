@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>    
+        <link rel="stylesheet" href="assets/aeropress/style.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" charset="UTF-8"> 
+    </head>
+    <body>
+
+        <script src='assets/aeropress/aero.js'></script>
+
+        <div class='container'>
+
+            <div class = 'image'>
+                <img class = 'aeroimg' src = 'assets/aeropress/apress.png'>
+            </div>    
+
+            <div class = 'recipebox'>
+
+                <h1 class = 'title'>Aeropress Recipe Generator</h1>
+
+                <button class = "but" onclick=generateRecipe()>Give me a recipe!</button>
+
+                <div id = "recipe">
+                    <p id = "water"></p>
+                    <p id = "grams_grind"></p>
+                    <p id = "posit"></p>
+                    <p id = "filter"></p>
+                    <p id = "bloom_amt"></p>
+                    <p id = "bloom_time"></p>
+                    <p id = "pour"></p>
+                    <p id = "press"></p>
+                    <p>Enjoy your coffee</p>
+                </div>
+                
+            </div>
+        
+        </div>
+    </body>
+</html>
