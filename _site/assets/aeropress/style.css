@@ -98,7 +98,35 @@ p {
 
 /* --------------------- SMALL SCREEN --------------------- */
 
+@media print, screen and (max-width: 800px){
+    
+  .container{
+      flex-direction: column-reverse;
+      padding-top: 0px;
+      width: auto;
+      height: auto;
+  }
 
+  .image {
+    width: 100vw;
+    height: auto;
+  }
+
+  .aeroimg{
+    width: 75vw;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    transform: rotate(340deg);
+  }
+
+  #recipe {
+    display: none;
+    padding-top: 20px;
+    text-align: center;
+  }
+}
 
 @media print, screen and (max-width: 1050px){
     
@@ -118,24 +146,4 @@ p {
       padding-top: 20px;
       text-align: center;
     }
-}
-
-@media print, screen and (max-width: 800px){
-    
-  .container{
-      flex-direction: column-reverse;
-      padding-top: 0px;
-      width: auto;
-      height: auto;
-  }
-
-  .image {
-    width: 100%;
-  }
-
-  #recipe {
-    display: none;
-    padding-top: 20px;
-    text-align: center;
-  }
 }
