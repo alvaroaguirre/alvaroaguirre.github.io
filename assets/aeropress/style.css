@@ -130,7 +130,8 @@ p {
   }
 
   .image {
-    width: 100%;
+    width: 750px;
+    height: auto;
   }
 
   #recipe {
