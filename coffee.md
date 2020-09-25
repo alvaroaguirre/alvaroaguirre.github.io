@@ -20,6 +20,10 @@ I have created a Café Map, with my favorite coffeeshops in different parts of t
 </div>
 <br>
 
+### AeroPress Recipe Generator
+
+In order to experiment more with my AeroPress (and practice some basic web skills), I created an AeroPress Recipe Generator. You can check it out here: ![AeroPress Recipe Generator](https://alvaroaguirre.com/AeroPressRecipe)
+
 ### Beans
 
 I collect the bags of coffee I drink. This picture shows most of the beans that accompanied me during my time at the LSE:
