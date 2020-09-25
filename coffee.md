@@ -22,7 +22,7 @@ I have created a Café Map, with my favorite coffeeshops in different parts of t
 
 ### AeroPress Recipe Generator
 
-In order to experiment more with my AeroPress (and practice some basic web skills), I created an AeroPress Recipe Generator. You can check it out here: ![AeroPress Recipe Generator](https://alvaroaguirre.com/AeroPressRecipe)
+In order to experiment more with my AeroPress (and practice some basic web skills), I created an AeroPress Recipe Generator. You can check it out here: [AeroPress Recipe Generator](AeroPressRecipe.html)
 
 ### Beans
 
