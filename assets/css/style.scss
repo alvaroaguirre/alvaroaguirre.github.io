@@ -11,11 +11,13 @@ body {
 
 a {
    color: #BB0A21; 
+   text-decoration: none;
 }
 
 a:hover {
     color: #BB0A21;
-    font-weight: 800;
+    font-weight: normal;
+    text-shadow: 0 0 1px #BB0A21, 0 0 1px #BB0A21;
 }
 
 h1 {
@@ -132,6 +134,17 @@ th {
 
 .map {
     position: relative;
+}
+
+.aero_rec:hover{
+    transition: .5s ease;
+    opacity: 0.5;
+}
+
+.aero_rec {
+    position: relative;
+    transition: .5s ease;
+    opacity: 1;
 }
 
 .middle {

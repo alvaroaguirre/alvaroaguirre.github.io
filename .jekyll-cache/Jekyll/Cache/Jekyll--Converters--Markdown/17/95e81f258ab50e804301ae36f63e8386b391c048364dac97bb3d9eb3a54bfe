@@ -1,4 +1,4 @@
-I"d<h2 id="coffee-and-cafés">Coffee and Cafés</h2>
+I"'<h2 id="coffee-and-cafés">Coffee and Cafés</h2>
 
 <p>One of my biggest passions is specialty coffee. I frequently spend hours in coffee shops reading, and a few years ago I started talking to the baristas and owners trying to learn more about the coffee I was served. Where it came from, what process did the beans go through, how was it brewed. I discovered it was a fantastically complex world. During my masters degree, I explored this passion further by joining the Coffee Society of my College, participating in tastings, visits to cafés, and learning lots. Brewing coffee is an important part of my days, a very slow and relaxing time for myself.</p>
 
@@ -19,6 +19,13 @@
 <h3 id="aeropress-recipe-generator">AeroPress Recipe Generator</h3>
 
 <p>In order to experiment more with my AeroPress (and practice some basic web skills), I created an AeroPress Recipe Generator. You can check it out here: <a href="AeroPressRecipe.html">AeroPress Recipe Generator</a></p>
+
+<div class="aero_rec">
+    <a href="AeroPressRecipe.html" target="_blank">
+        <img alt="AeroPress" src="./assets/aeropress/apress_recip.png" class="mapimg" />
+    </a>
+</div>
+<p><br /></p>
 
 <h3 id="beans">Beans</h3>
 

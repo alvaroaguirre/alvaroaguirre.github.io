@@ -24,6 +24,13 @@ I have created a Café Map, with my favorite coffeeshops in different parts of t
 
 In order to experiment more with my AeroPress (and practice some basic web skills), I created an AeroPress Recipe Generator. You can check it out here: [AeroPress Recipe Generator](AeroPressRecipe.html)
 
+<div class = "aero_rec">
+    <a href="AeroPressRecipe.html"  target="_blank">
+        <img alt="AeroPress" src="./assets/aeropress/apress_recip.png" class = "mapimg">
+    </a>
+</div>
+<br>
+
 ### Beans
 
 I collect the bags of coffee I drink. This picture shows most of the beans that accompanied me during my time at the LSE:

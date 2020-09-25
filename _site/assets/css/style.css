@@ -220,9 +220,9 @@ ul.icons { list-style: none; height: 40px; padding: 0; margin: auto; margin-bott
 
 body { background-color: #FFFFFF; color: #252627; font-size: 12pt; }
 
-a { color: #BB0A21; }
+a { color: #BB0A21; text-decoration: none; }
 
-a:hover { color: #BB0A21; font-weight: 800; }
+a:hover { color: #BB0A21; font-weight: normal; text-shadow: 0 0 1px #BB0A21, 0 0 1px #BB0A21; }
 
 h1 { color: #252627; text-align: center; }
 
@@ -273,6 +273,10 @@ th { color: #252627; text-align: center; }
 .map:hover .middle { opacity: 1; }
 
 .map { position: relative; }
+
+.aero_rec:hover { transition: .5s ease; opacity: 0.5; }
+
+.aero_rec { position: relative; transition: .5s ease; opacity: 1; }
 
 .middle { transition: .5s ease; opacity: 0; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); text-align: center; }
 
