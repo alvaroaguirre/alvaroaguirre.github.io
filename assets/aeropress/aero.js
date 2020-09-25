@@ -146,5 +146,5 @@ function generateRecipe() {
     if(bloom != "") document.getElementById("pour").innerHTML = "Pour the remaining water into the chamber. " + stir;
     if(bloom == "") document.getElementById("pour").innerHTML = "Pour the water into the chamber. " + stir;
     if(position == "inverted") document.getElementById("press").innerHTML = "After " + brewtime + ", flip the Aeropress and press gently";
-    if(position != "inverted") document.getElementById("press").innerHTML = "After " + brewtime + ", put the plunger on the Aeropress and press grently";
+    if(position != "inverted") document.getElementById("press").innerHTML = "After " + brewtime + ", put the plunger on the Aeropress and press gently";
   }
