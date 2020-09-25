@@ -4,23 +4,23 @@
 
 function getGrams(){
     var num = Math.random();
-    if(num < 0.05) return "10 gr";  
-    else if(num < 0.1) return "11 gr";
-    else if(num < 0.15) return "11.5 gr";
-    else if(num < 0.175) return "12 gr";
-    else if(num < 0.225) return "12.5 gr";
-    else if(num < 0.275) return "13 gr";
-    else if(num < 0.325) return "13.5 gr";
-    else if(num < 0.4) return "14 gr";
-    else if(num < 0.5) return "14.5 gr";
-    else if(num < 0.6) return "15 gr";
-    else if(num < 0.7) return "15.5 gr";
-    else if(num < 0.75) return "16 gr";
-    else if(num < 0.8) return "16.5 gr";
-    else if(num < 0.85) return "17 gr";
-    else if(num < 0.9) return "17.5 gr";
-    else if(num < 0.95) return "18 gr";
-    else return "19 gr"; 
+    if(num < 0.05) return "10";  
+    else if(num < 0.1) return "11";
+    else if(num < 0.15) return "11.5";
+    else if(num < 0.175) return "12";
+    else if(num < 0.225) return "12.5";
+    else if(num < 0.275) return "13";
+    else if(num < 0.325) return "13.5";
+    else if(num < 0.4) return "14";
+    else if(num < 0.5) return "14.5";
+    else if(num < 0.6) return "15";
+    else if(num < 0.7) return "15.5";
+    else if(num < 0.75) return "16";
+    else if(num < 0.8) return "16.5";
+    else if(num < 0.85) return "17";
+    else if(num < 0.9) return "17.5";
+    else if(num < 0.95) return "18";
+    else return "19"; 
 }
 
 function getWaterTemp(){
@@ -145,6 +145,6 @@ function generateRecipe() {
     if(bloom == "") document.getElementById("bloom_time").innerHTML = "";
     if(bloom != "") document.getElementById("pour").innerHTML = "Pour the remaining water into the chamber. " + stir;
     if(bloom == "") document.getElementById("pour").innerHTML = "Pour the water into the chamber. " + stir;
-    if(position == "inverted") document.getElementById("press").innerHTML = "After " + brewtime + ", flip the Aeropress and press grently";
+    if(position == "inverted") document.getElementById("press").innerHTML = "After " + brewtime + ", flip the Aeropress and press gently";
     if(position != "inverted") document.getElementById("press").innerHTML = "After " + brewtime + ", put the plunger on the Aeropress and press grently";
   }
