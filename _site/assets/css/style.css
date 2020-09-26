@@ -260,7 +260,7 @@ header { overflow: auto; }
 
 }
 */
-.photo_title { margin-top: 20px; margin-bottom: 10px; }
+.photo_title { font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; margin-top: 20px; margin-bottom: 10px; font-weight: bold; }
 
 b, strong { color: #252627; }
 

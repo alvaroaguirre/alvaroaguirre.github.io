@@ -4,6 +4,18 @@ layout: default
 
 ## Film photography
 
+<center class = "photo_title" ><i>Portrait, 50mm f2.0</i></center>
+<img class = "photo" src="/photos/portrait.jpeg">
+
+<center class = "photo_title" ><i>Window</i></center>
+<img class = "photo" src="/photos/window.jpeg">
+
+<center class = "photo_title" ><i>Mirror room</i></center>
+<img class = "photo" src="/photos/mirror_room.jpeg">
+
+<center class = "photo_title" ><i>Fly on flower</i></center>
+<img class = "photo" src="/photos/fly_on_flow.jpeg">
+
 <center class = "photo_title" ><i>Family stroll</i></center>
 <img class = "photo" src="/photos/ducks.jpeg">
 
