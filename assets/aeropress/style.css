@@ -147,3 +147,19 @@ p {
       text-align: center;
     }
 }
+
+footer p{
+  font-size: small;
+  text-align: center;
+  color: #92817A;
+}
+
+footer a{
+  text-decoration: none;
+  color: #92817A;
+  font-weight: bold;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
