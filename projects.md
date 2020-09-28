@@ -6,6 +6,14 @@ layout: default
 
 Some small projects I have been working on.
 
+### Aeropress Recipe Generator
+
+Inspired by James Hoffman's AeroPress Dice, I tried to develop a website that automatically generates AeroPress recipes in less than two hours. It received hundreds of visits on the day of release and climbed to the top of the Aeropress subreddit. You can try it out [here](AeroPressRecipe.html).
+
+### R and Quantitative Finance
+
+Teaching material I elaborated for LSE's postgraduate course *FM442: Quantitative Methods for Finance and Risk Management*, taught by Jon Danielsson. It aims to teach R skills to students with no prior experience in programming. You can find it [here](R.html).
+
 ### What are we interested in?
 
 While in quarantine, [Hannah Ker](https://hannahker.com) and I decided to do some little projects to learn new skills, each taking only a couple of hours long. The first one was [_What are we interested in?_](https://alvaroaguirre.github.io/whatareweinterestedin/), a simple website that uses JavaScript to get the top ten Wikipedia articles read the previous day, and scale each one's font size by its relative page views. The code can be found [here](https://github.com/alvaroaguirre/whatareweinterestedin).
