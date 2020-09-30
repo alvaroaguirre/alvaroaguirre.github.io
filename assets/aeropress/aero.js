@@ -149,10 +149,3 @@ function generateRecipe() {
     if(position != "inverted") document.getElementById("press").innerHTML = "After " + brewtime + ", put the plunger on the Aeropress and press gently";
 }
 
-function generatePDF(){
-    var doc = new jsPDF()
-
-    doc.text(document.getElementById("recipe"), 10, 10)
-    doc.save('test.pdf')
-}
-
