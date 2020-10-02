@@ -8,7 +8,7 @@ Some small projects I have been working on.
 
 ### Aeropress Recipe Generator
 
-Inspired by James Hoffman's AeroPress Dice, I tried to develop a website that automatically generates AeroPress recipes in less than two hours. It received hundreds of visits on the day of release and climbed to the top of the Aeropress subreddit. You can try it out [here](AeroPressRecipe.html).
+Inspired by James Hoffman's AeroPress Dice, I developed a website that automatically generates AeroPress recipes. It received hundreds of visits on the day of release and climbed to the top of the Aeropress subreddit. You can try it out [here](AeroPressRecipe.html).
 
 ### R and Quantitative Finance
 
