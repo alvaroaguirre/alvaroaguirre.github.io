@@ -4,7 +4,7 @@ layout: default
 
 ## R and quantitative finance
 
-During my time at the Systemic Risk Centre, I created material for the LSE postgraduate class *FM442: Quantitative Methods for Finance and Risk Management*, taught by Jon Danielsson. Apart from exploring the contents of the course, the eight self-contained seminars aimed to teach students how to work with R, the statistical computing software. Apart from the core content, I wrote a set of weekly assignments, and an support notebook designed to help students get comfortable with R:
+During my time at the Systemic Risk Centre, I created material for the LSE postgraduate class *FM442: Quantitative Methods for Finance and Risk Management*, taught by Jon Danielsson. Apart from exploring the contents of the course, the eight self-contained seminars aimed to teach students how to work with R, the statistical computing software. You can also find a set of weekly assignments, and an support notebook designed to help students get comfortable with R:
 
 * [R support notebook](./assets/frf/R_support.html)
 * [Seminar 1](./assets/frf/Seminar1.html)
