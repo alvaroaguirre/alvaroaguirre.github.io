@@ -4,10 +4,22 @@ layout: default
 
 ## Film photography
 
+<center class = "photo_title" ><i>Canal House</i></center>
+<img class = "photo" src="/photos/canal_house.jpeg">
+
+<center class = "photo_title" ><i>Fluff</i></center>
+<img class = "photo" src="/photos/canal_dog.jpeg">
+
+<center class = "photo_title" ><i>I can't breathe</i></center>
+<img class = "photo" src="/photos/cant_breathe.jpeg">
+
+<center class = "photo_title" ><i>Shoreditch</i></center>
+<img class = "photo" src="/photos/graff.jpeg">
+
 <center class = "photo_title" ><i>Portrait, 50mm f2.0</i></center>
 <img class = "photo" src="/photos/portrait.jpeg">
 
-<center class = "photo_title" ><i>Window</i></center>
+<center class = "photo_title" ><i>Quarantine</i></center>
 <img class = "photo" src="/photos/window.jpeg">
 
 <center class = "photo_title" ><i>Mirror room</i></center>
