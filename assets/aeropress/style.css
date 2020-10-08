@@ -1,5 +1,7 @@
 /* --------------------- WIDE SCREEN ---------------------*/
 
+@font-face { font-family: Vulf; src: url('Vulf-LightItalic.otf'); } 
+
 body{
     font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; 
     margin: 0px; 
@@ -14,7 +16,7 @@ body{
 }
 
 h1 { 
-  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; 
+  font-family: Vulf; 
   font-size: 50px; 
   font-style: normal; 
   font-variant: normal; 
@@ -149,6 +151,7 @@ p {
 }
 
 footer p{
+  font-family: Vulf;
   font-size: small;
   text-align: center;
   color: #92817A;
