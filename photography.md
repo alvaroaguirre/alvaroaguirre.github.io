@@ -4,6 +4,15 @@ layout: default
 
 ## Film photography
 
+<center class = "photo_title" ><i>Jaws</i></center>
+<img class = "photo" src="/photos/jaws.jpeg">
+
+<center class = "photo_title" ><i>Tiles</i></center>
+<img class = "photo" src="/photos/tiles.jpeg">
+
+<center class = "photo_title" ><i>Swan</i></center>
+<img class = "photo" src="/photos/swan.jpeg">
+
 <center class = "photo_title" ><i>Canal House</i></center>
 <img class = "photo" src="/photos/canal_house.jpeg">
 
