@@ -240,7 +240,7 @@ h4 { color: #252627; }
 
 .nav-item { margin-bottom: 10px; border-width: thin; background-color: #FFFFFF; }
 
-.nav-link { color: #BB0A21; font-weight: bold; text-decoration: underline; }
+.nav-link { color: #BB0A21; font-weight: bold; }
 
 .nav-link:hover { opacity: 0.6; }
 
