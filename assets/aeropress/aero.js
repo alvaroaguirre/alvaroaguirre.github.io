@@ -204,7 +204,20 @@ function resumeTimer(){
 function restartTimer(){
     stopTimer();
     document.getElementById("resume").style.display = "none";
+    document.getElementById("pause").style.display = "none";
+    document.getElementById("restart").style.display = "none";
+    document.getElementById("start").style.display = "inline";
     oldcount = 0;
     count = 0;
-    startTimer();
+    document.getElementById("timer").innerHTML = "00:00";
+}
+
+function clearTimer(){
+    stopTimer();
+    document.getElementById("timer").innerHTML = "00:00";
+    document.getElementById("timer").style.display = "none";
+    document.getElementById("start").style.display = "inline";
+    document.getElementById("resume").style.display = "none";
+    document.getElementById("restart").style.display = "none";
+    document.getElementById("stop").style.display = "none";
 }
