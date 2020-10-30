@@ -165,3 +165,8 @@ th {
     backface-visibility: hidden;
     display: block;
 }
+
+.flexcontainer {
+    display: flex;
+    flex-direction: column;    
+}

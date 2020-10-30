@@ -149,3 +149,62 @@ function generateRecipe() {
     if(position != "inverted") document.getElementById("press").innerHTML = "After " + brewtime + ", put the plunger on the Aeropress and press gently";
 }
 
+function zeroPad(num, places) {
+    var zero = places - num.toString().length + 1;
+    return Array(+(zero > 0 && zero)).join("0") + num;
+}
+
+
+var intervalRef, current, stoptime, count, oldcount;
+
+function startTimer(){
+    document.getElementById("timer").style.display = "inline";
+    document.getElementById("pause").style.display = "inline";
+    document.getElementById("restart").style.display = "inline";
+    document.getElementById("start").style.display = "none";
+
+    var start = new Date();
+
+    intervalRef = setInterval(_ => {
+        current = new Date();
+        count = +current - +start;
+            
+        var s = Math.floor((count /  1000)) % 60;
+        var m = Math.floor((count / 60000)) % 60;
+          
+        $('#timer').text(zeroPad(m,2) + ":" + zeroPad(s,2) );
+    }, 10);
+}
+
+function stopTimer(){
+    document.getElementById("pause").style.display = "none";
+    document.getElementById("resume").style.display = "inline";
+    clearInterval(intervalRef);
+}
+
+function resumeTimer(){
+
+    document.getElementById("resume").style.display = "none";
+    document.getElementById("pause").style.display = "inline";
+
+    oldcount = count;
+    var start = new Date();
+
+    intervalRef = setInterval(_ => {
+        current = new Date();
+        count = +current - +start + oldcount;
+            
+        var s = Math.floor((count /  1000)) % 60;
+        var m = Math.floor((count / 60000)) % 60;
+          
+        $('#timer').text(zeroPad(m,2) + ":" + zeroPad(s,2) );
+    }, 10);
+}
+
+function restartTimer(){
+    stopTimer();
+    document.getElementById("resume").style.display = "none";
+    oldcount = 0;
+    count = 0;
+    startTimer();
+}

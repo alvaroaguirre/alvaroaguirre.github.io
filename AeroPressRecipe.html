@@ -31,7 +31,7 @@
 
                 <h1 class = 'title'>Aeropress Recipe Generator</h1>
 
-                <button class = "but" onclick=generateRecipe()>Give me a recipe!</button>
+                <button class = "but" onclick="generateRecipe()"">Give me a recipe!</button>
 
                 <div id = "recipe">
                     <p id = "water"></p>
@@ -44,10 +44,15 @@
                     <p id = "pour"></p>
                     <p id = "press"></p>
                     <p>Enjoy your coffee</p>
+                    <div id = "timerwrap">
+                        <button class = "timerbut" id = "start" onclick="startTimer()">Timer</button>
+                        <button class = "timerbut" id = "pause" onclick="stopTimer()">Pause</button>
+                        <button class = "timerbut" id = "resume" onclick="resumeTimer()">Resume</button>
+                        <button class = "timerbut" id = "restart" onclick="restartTimer()">Restart</button>
+                        <p id = "timer">00:00</p>
+                    </div>
                 </div>
-                
             </div>
-        
         </div>
     </body>
     <footer>

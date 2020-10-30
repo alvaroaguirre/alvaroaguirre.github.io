@@ -166,3 +166,43 @@ footer a{
 footer a:hover {
   text-decoration: underline;
 }
+
+.minutes .seconds {
+  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; 
+  font-size: 60px;
+}
+
+#restart, #pause, #resume {
+  display: none;
+}
+
+#timer {
+  display: none;
+  color: #92817A;
+}
+
+#timerwrap {
+  text-align: center;
+}
+
+.timerbut {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  color: #92817A;
+  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; 
+  cursor: pointer;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 15px;
+  box-shadow: 10px 10px;
+  outline: none;
+  border-radius: 0px;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.1);
+  transition: all 0.2s ease 0s;
+  cursor: pointer;
+  outline: none;
+  border: 1px;
+  border-color: #362417;
+  background-color: #FBF5F3;
+}
