@@ -219,5 +219,5 @@ function clearTimer(){
     document.getElementById("start").style.display = "inline";
     document.getElementById("resume").style.display = "none";
     document.getElementById("restart").style.display = "none";
-    document.getElementById("stop").style.display = "none";
+    document.getElementById("pause").style.display = "none";
 }
