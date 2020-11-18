@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Getting price changes on your email using BeautifulSoup
+# Getting price changes in your email using BeautifulSoup
 
 ### Alvaro Aguirre - November, 2020
 

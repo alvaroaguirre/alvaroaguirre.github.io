@@ -6,7 +6,7 @@ layout: default
 
 ### 2020
 
-[Getting price changes on your email using BeautifulSoup](./blog/webscrap.html)
+[Getting price changes in your email using BeautifulSoup](./blog/webscrap.html)
 
 [Crisis in Peru](./blog/peru_crisis.html)
 
