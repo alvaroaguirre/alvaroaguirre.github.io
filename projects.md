@@ -28,7 +28,7 @@ I built a Python program that gets daily new cases and deaths, both in absolutes
 
 ### Benford's Law
 
-I recently learned about [Benford's Law](https://en.wikipedia.org/wiki/Benford%27s_law) and could not believe it was real. It basically says that the distribution of the leading digit of real-world data is not uniform, as one would expect, regardless of the unit measured, and it actually always has the same distribution. I used two datasets to test this. First, I downloaded daily stock prices for all US publicly traded stocks during 2019, almost 2 million observations. Then, I downloaded the Covid-19 dataset from [Our world in data](https://ourworldindata.org/). Using Python with Pandas and Numpy, I got the distribution of leading non-zero digits and... Benford's Law holds! Below is a one of the distribution plots I generated. I wrote a more detailed blog post [here](./blog/benford/benfords_law.html).
+I recently learned about [Benford's Law](https://en.wikipedia.org/wiki/Benford%27s_law) and could not believe it was real. It basically says that the distribution of the leading digit of real-world data is not uniform, as one would expect, regardless of the unit measured, and it actually always has the same distribution. I used two datasets to test this. First, I downloaded daily stock prices for all US publicly traded stocks during 2019, almost 2 million observations. Then, I downloaded the Covid-19 dataset from [Our world in data](https://ourworldindata.org/). Using Python with Pandas and Numpy, I got the distribution of leading non-zero digits and... Benford's Law holds! Below is a one of the distribution plots I generated. I wrote a more detailed blog post [here](./blog/benfords_law.html).
 
 ![Benford2](./blog/benford/benford_corona.svg)
 

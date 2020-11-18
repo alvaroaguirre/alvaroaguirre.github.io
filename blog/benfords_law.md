@@ -16,8 +16,8 @@ This sounded almost magical, and reminded me of when I first learnt about the Ce
 
 In my disbelief that this was actually a real thing, I decided to test it. First, I downloaded all the daily stock prices for all US-traded stocks during 2019 and... Benford's law perfectly fit. But a lot of people have already tested the fit of stock data on Benford's law, so I decided to try something more novel: Corona.
 
-I wrote a [Python script](./benfords.py) that downloads a complete Coronavirus dataset from [Our World in Data](https://ourworldindata.org/coronavirus) and checks the frequency of leading digits. Since Benford's law is supposed to be robust to changes in units, I checked two variables, the daily number of new cases per country, and the total number of cases per million per country per day. The results are show in the bar plot below, with the expected frequency according to Benford's Law in blue.
+I wrote a [Python script](.benford/benfords.py) that downloads a complete Coronavirus dataset from [Our World in Data](https://ourworldindata.org/coronavirus) and checks the frequency of leading digits. Since Benford's law is supposed to be robust to changes in units, I checked two variables, the daily number of new cases per country, and the total number of cases per million per country per day. The results are show in the bar plot below, with the expected frequency according to Benford's Law in blue.
 
-![Benfords](benford_corona.svg)
+![Benfords](benford/benford_corona.svg)
 
 It is amazing how the data from something so unexpected, so anomalous, like the Corona crisis, still follows some regularities.

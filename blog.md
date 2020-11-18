@@ -6,8 +6,12 @@ layout: default
 
 ### 2020
 
+[Getting price changes on your email using BeautifulSoup](./blog/webscrap.html)
+
+[Crisis in Peru](./blog/peru_crisis.html)
+
 <a href="https://voxeu.org/article/which-programming-language-best-economic-research" target="_blank">Which programming language is best for economic research: Julia, Matlab, Python or R?</a>
 
-[A very short introduction to Non-Linear Systems and Chaos](./blog/nonlinear/NonlinearDynamics.html)
+[A very short introduction to Non-Linear Systems and Chaos](./blog/NonlinearDynamics.html)
 
-[Benford's Law and Corona](./blog/benford/benfords_law.html)
+[Benford's Law and Corona](./blog/benfords_law.html)

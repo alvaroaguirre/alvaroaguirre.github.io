@@ -14,7 +14,7 @@
 
 .highlight .cp { color: #999999; font-weight: bold; }
 
-.highlight .c1 { color: #999988; font-style: italic; }
+.highlight .c1 { color: green; font-style: italic; }
 
 .highlight .cs { color: #999999; font-weight: bold; font-style: italic; }
 
@@ -46,7 +46,7 @@
 
 .highlight .kd { color: #000000; font-weight: bold; }
 
-.highlight .kn { color: #000000; font-weight: bold; }
+.highlight .kn { color: #445588; font-weight: bold; }
 
 .highlight .kp { color: #000000; font-weight: bold; }
 
@@ -54,7 +54,7 @@
 
 .highlight .kt { color: #445588; font-weight: bold; }
 
-.highlight .k, .highlight .kv { color: #000000; font-weight: bold; }
+.highlight .k, .highlight .kv { color: #000080; font-weight: bold; }
 
 .highlight .mf { color: #009999; }
 
@@ -108,7 +108,7 @@
 
 .highlight .ne { color: #990000; font-weight: bold; }
 
-.highlight .nf { color: #990000; font-weight: bold; }
+.highlight .nf { color: #000080; font-weight: bold; }
 
 .highlight .nl { color: #990000; font-weight: bold; }
 
@@ -130,7 +130,9 @@
 
 .highlight .w { color: #bbbbbb; }
 
-.highlight { background-color: #f8f8f8; }
+.highlight { background-color: white; }
+
+@font-face { font-family: JuliaMono; src: url("../fonts/JuliaMono-Light.ttf"); }
 
 body { background-color: #fff; padding: 50px; font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #727272; font-weight: 400; }
 
@@ -158,9 +160,9 @@ a:hover small { color: #777; }
 
 blockquote { border-left: 1px solid #e5e5e5; margin: 0; padding: 0 0 0 20px; font-style: italic; }
 
-code, pre { font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace; color: #333; }
+code, pre { font-family: JuliaMono, Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace; color: #333; }
 
-pre { padding: 8px 15px; background: #f8f8f8; border-radius: 5px; border: 1px solid #e5e5e5; overflow-x: auto; }
+pre { padding: 8px 15px; background: #0e0c0c; border-radius: 5px; border: 1px solid grey; overflow-x: auto; font-size: 10pt; }
 
 table { width: 100%; border-collapse: collapse; }
 

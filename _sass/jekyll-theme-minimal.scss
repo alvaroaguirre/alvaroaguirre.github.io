@@ -1,5 +1,6 @@
 @import "fonts";
 @import "rouge-github";
+@font-face { font-family: JuliaMono; src: url('../fonts/JuliaMono-Light.ttf'); } 
 
 body {
   background-color: #fff;
@@ -68,16 +69,17 @@ blockquote {
 }
 
 code, pre {
-  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  font-family: JuliaMono, Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
   color:#333;
 }
 
 pre {
   padding:8px 15px;
-  background: #f8f8f8;
+  background: #0e0c0c;
   border-radius:5px;
-  border:1px solid #e5e5e5;
+  border:1px solid grey;
   overflow-x: auto;
+  font-size: 10pt;
 }
 
 table {

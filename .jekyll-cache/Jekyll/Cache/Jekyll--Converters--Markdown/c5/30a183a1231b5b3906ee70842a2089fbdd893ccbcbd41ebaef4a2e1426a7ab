@@ -1,4 +1,4 @@
-I"w-<h2 id="projects">Projects</h2>
+I"o-<h2 id="projects">Projects</h2>
 
 <p>Some small projects I have been working on.</p>
 
@@ -24,7 +24,7 @@
 
 <h3 id="benfords-law">Benford’s Law</h3>
 
-<p>I recently learned about <a href="https://en.wikipedia.org/wiki/Benford%27s_law">Benford’s Law</a> and could not believe it was real. It basically says that the distribution of the leading digit of real-world data is not uniform, as one would expect, regardless of the unit measured, and it actually always has the same distribution. I used two datasets to test this. First, I downloaded daily stock prices for all US publicly traded stocks during 2019, almost 2 million observations. Then, I downloaded the Covid-19 dataset from <a href="https://ourworldindata.org/">Our world in data</a>. Using Python with Pandas and Numpy, I got the distribution of leading non-zero digits and… Benford’s Law holds! Below is a one of the distribution plots I generated. I wrote a more detailed blog post <a href="./blog/benford/benfords_law.html">here</a>.</p>
+<p>I recently learned about <a href="https://en.wikipedia.org/wiki/Benford%27s_law">Benford’s Law</a> and could not believe it was real. It basically says that the distribution of the leading digit of real-world data is not uniform, as one would expect, regardless of the unit measured, and it actually always has the same distribution. I used two datasets to test this. First, I downloaded daily stock prices for all US publicly traded stocks during 2019, almost 2 million observations. Then, I downloaded the Covid-19 dataset from <a href="https://ourworldindata.org/">Our world in data</a>. Using Python with Pandas and Numpy, I got the distribution of leading non-zero digits and… Benford’s Law holds! Below is a one of the distribution plots I generated. I wrote a more detailed blog post <a href="./blog/benfords_law.html">here</a>.</p>
 
 <p><img src="./blog/benford/benford_corona.svg" alt="Benford2" /></p>
 
