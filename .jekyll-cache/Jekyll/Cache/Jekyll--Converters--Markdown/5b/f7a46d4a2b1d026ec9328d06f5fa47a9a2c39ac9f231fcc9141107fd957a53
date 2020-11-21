@@ -1,0 +1,87 @@
+I"	-<h1 id="randomly-generating-a-chord-of-the-day-with-python">Randomly generating a Chord of the Day with Python</h1>
+
+<h3 id="alvaro-aguirre---november-2020">Alvaro Aguirre - November, 2020</h3>
+
+<p>Thanks to lockdown, I recently got back into playing the guitar after a 8-year-long hiatus. When I was younger I was a rock/metal guy trying to play complicated solos on my V-shaped guitar, but those days are long gone. My interests have drifted towards blues, funk and jazz, which require a more comprehensive music theory understanding that I lacked. So, I decided to go back to the basics and learn and study. These genres use a wide variety of chords that as a rock player I had never seen, e.g. notable confusion when trying to play stuff like C#13b5b9. Best way to learn is constant exposure to new chords. I wanted to integrate that to my routine, every day get a new chord that I could explore, so, of course, I decided to write some code that would help me with that. In this blog post you will see the explanation of <a href="https://github.com/alvaroaguirre/Projects/blob/master/ChordOfTheDay/main.py" target="_blank">this code</a>.</p>
+
+<h3 id="getting-started---how-are-chords-constructed">Getting started - How are chords constructed?</h3>
+
+<p>My goal was to randomly generate a chord every day, that would be sent to my email. The first step is obviously to determine how is a chord constructed. Let’s first go through some basics:</p>
+
+<p>The <em>chromatic</em> scale is a sequence of 12 notes, each is one <em>semitone</em> higher than the previous one. For example, if we start with the note <em>A</em>, the next note is <em>A#</em> (A sharp), which is one semitone higher than <em>A</em>. Let’s create a list with the chromatic scale:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">chromatic</span> <span class="o">=</span> <span class="p">[</span><span class="s">"A"</span><span class="p">,</span> <span class="s">"A#"</span><span class="p">,</span> <span class="s">"B"</span><span class="p">,</span> <span class="s">"C"</span><span class="p">,</span> <span class="s">"C#"</span><span class="p">,</span> <span class="s">"D"</span><span class="p">,</span> <span class="s">"D#"</span><span class="p">,</span> <span class="s">"E"</span><span class="p">,</span> <span class="s">"F"</span><span class="p">,</span> <span class="s">"F#"</span><span class="p">,</span> <span class="s">"G"</span><span class="p">,</span> <span class="s">"G#"</span><span class="p">]</span>
+</code></pre></div></div>
+
+<p>You will notice that <em>B</em> and <em>E</em> do not have a sharp. These twelve are all the existing <em>individual notes</em>.</p>
+
+<p>A chord is a collection of at least three individual notes. One of them is the <em>root</em> note, and the others are notes that are at a specific <em>distance</em> from the root. That distance is what determines the type of chord. And what does distance mean in this setting? <em>Distance</em> would mean the number of semitones between two notes. For example, between <em>C</em> and <em>E</em>, we have a distance of 4 semitones, or 2 full tones.</p>
+
+<p>Before creating our first chord, we need to talk about the <em>major scale</em>. This is the most widely used scale and it is extremely important. You might have heard of <em>Do re mi fa sol la si</em>, or, in English notes: <em>C D E F G A B</em>. This is the <em>C</em> major scale. <em>C</em> because the first or <em>root</em> note is <em>C</em>, and <em>major scale</em> because of what notes follow, which are determined by the distance we discussed before. A major scale is constructed following the distances: 2-2-1-2-2-2-1. This means we start at the <em>root</em>, then move 2 semitones higher, and that’s our second note for the major scale, then move 2 more semitones, and that’s our third note, and so on.</p>
+
+<p>For the C major scale, let’s look at the chromatic scale and put in bold the notes that are part of the major scale, which follow the 2-2-1-2-2-2-1:</p>
+
+<p><strong>C</strong>, C#, <strong>D</strong>, D#, <strong>E</strong>, <strong>F</strong>, F#, <strong>G</strong>, G#, <strong>A</strong>, A#, <strong>B</strong>, <strong>C</strong></p>
+
+<p>Nice, what about the major scale of <em>D#</em>? We can easily build it using the 2-2-1-2-2-2-1:</p>
+
+<p><strong>D#</strong>, E, <strong>F</strong>, F#, <strong>G</strong>, <strong>G#</strong>, A, <strong>A#</strong>, B, <strong>C</strong>, C#, <strong>D</strong>, <strong>D#</strong></p>
+
+<p>We can also give a number to each element of the major scale. We normally use roman numerals for this. For example, the III of the major scale of <em>C</em> is <em>E</em>, since it is the third element, starting from the root note. And <strong>this</strong> is what we will use to build chords, the elements of a note’s major scale. Let me give you a simple example. A major chord is build using the I-III-V, meaning the first, third, and fifth element of the major scale. So if we wanted to build the major chord of C, we would need <em>C</em>, <em>E</em>, and <em>G</em>. If you play any instrument, you will realize that when you play a <em>C</em> chord, all the individual notes you are playing are one of those three. Different combinations create different chords, just to give you a few examples:</p>
+
+<ul>
+  <li>Major chord: I - III - V</li>
+  <li>Minor chord: I - IIIb - V (b means flat)</li>
+  <li>add9: I - III - V - IX</li>
+  <li>9#11: I - III - V - VIIb - IX - XI# (# means sharp)</li>
+</ul>
+
+<p>Okay, enough talking, let’s get to the code</p>
+
+<h3 id="code">Code</h3>
+
+<p>Here we will put everything we have mentioned into code. Let’s define some functions that will be helpful.</p>
+
+<p>First let’s create <code class="language-plaintext highlighter-rouge">scale(root)</code>. This function will take a note as the argument, which will be the <em>root</em> note, and return the <em>major scale</em> for that note:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">scale</span><span class="p">(</span><span class="n">root</span><span class="p">):</span>
+
+    <span class="s">"""Returns the major scale of the root note"""</span>
+    <span class="c1"># Get the position of the root note in the chromatic scale above
+</span>    <span class="n">root_pos</span> <span class="o">=</span> <span class="n">chromatic</span><span class="p">.</span><span class="n">index</span><span class="p">(</span><span class="n">root</span><span class="p">)</span>
+    <span class="c1"># Reorder the chromatic scale so it starts with the root
+</span>    <span class="n">reorder</span> <span class="o">=</span> <span class="n">chromatic</span><span class="p">[</span><span class="n">root_pos</span><span class="p">:</span><span class="nb">len</span><span class="p">(</span><span class="n">chromatic</span><span class="p">)]</span> <span class="o">+</span> <span class="n">chromatic</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="n">root_pos</span><span class="p">]</span>
+    <span class="c1"># Specify the positions of the major scale
+</span>    <span class="n">scale_pos</span> <span class="o">=</span> <span class="p">[</span><span class="mi">0</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="mi">5</span><span class="p">,</span><span class="mi">7</span><span class="p">,</span><span class="mi">9</span><span class="p">,</span><span class="mi">11</span><span class="p">]</span>
+    <span class="c1"># Use list comprehension to extract the notes
+</span>    <span class="n">major</span> <span class="o">=</span> <span class="p">[</span><span class="n">reorder</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">scale_pos</span><span class="p">]</span>
+    <span class="k">return</span><span class="p">(</span><span class="n">major</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>Now, we need to have in mind that we might encounter some sharps <em>#</em> and flats <em>b</em>, so we need to have a couple of functions that take care of that. These will return the sharped or flatted note:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">sharp</span><span class="p">(</span><span class="n">note</span><span class="p">):</span>
+    <span class="s">"""Returns the note sharped"""</span>
+    <span class="c1"># Get position in the chromatic scale
+</span>    <span class="n">position</span> <span class="o">=</span> <span class="n">chromatic</span><span class="p">.</span><span class="n">index</span><span class="p">(</span><span class="n">note</span><span class="p">)</span>
+    <span class="c1"># If its the last element, return the first
+</span>    <span class="k">if</span> <span class="n">position</span> <span class="o">==</span> <span class="nb">len</span><span class="p">(</span><span class="n">chromatic</span><span class="p">)</span><span class="o">-</span><span class="mi">1</span><span class="p">:</span>
+        <span class="k">return</span><span class="p">(</span><span class="n">chromatic</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
+    <span class="c1"># If its not the last element, return the following one
+</span>    <span class="k">else</span><span class="p">:</span>
+        <span class="k">return</span><span class="p">(</span><span class="n">chromatic</span><span class="p">[</span><span class="n">position</span><span class="o">+</span><span class="mi">1</span><span class="p">])</span>
+    
+<span class="k">def</span> <span class="nf">flat</span><span class="p">(</span><span class="n">note</span><span class="p">):</span>
+    <span class="s">"""Returns the note flatted"""</span>
+    <span class="c1"># Get position in the chromatic scale
+</span>    <span class="n">position</span> <span class="o">=</span> <span class="n">chromatic</span><span class="p">.</span><span class="n">index</span><span class="p">(</span><span class="n">note</span><span class="p">)</span>
+    <span class="c1"># If its the first element, return the last
+</span>    <span class="k">if</span> <span class="n">position</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span>
+        <span class="k">return</span><span class="p">(</span><span class="n">chromatic</span><span class="p">[</span><span class="o">-</span><span class="mi">1</span><span class="p">])</span>
+    <span class="c1"># If its not the first element, return the previous one
+</span>    <span class="k">else</span><span class="p">:</span>
+        <span class="k">return</span><span class="p">(</span><span class="n">chromatic</span><span class="p">[</span><span class="n">position</span><span class="o">-</span><span class="mi">1</span><span class="p">])</span>
+</code></pre></div></div>
+
+<p>Great. Now, before we continue, remember how I mentioned that a major chord is constructed using the first, third, and fifth note. Just like the major chord, there are many other variations. I have stored them all in a dictionary called <code class="language-plaintext highlighter-rouge">chords</code>. You can find it <a href="chords/chord_dictionary.py" target="_blank">here</a></p>
+:ET
