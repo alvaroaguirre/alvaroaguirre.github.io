@@ -1,13 +1,0 @@
-I"<h1 id="randomly-generating-a-chord-of-the-day-with-python">Randomly generating a Chord of the Day with Python</h1>
-
-<h3 id="alvaro-aguirre---november-2020">Alvaro Aguirre - November, 2020</h3>
-
-<p>Thanks to lockdown, I recently got back into playing the guitar after a 8-year-long hiatus. When I was younger I was a rock/metal guy trying to play complicated solos on my V-shaped guitar, but those days are long gone. My interests have drifted towards blues, funk and jazz, which require a more comprehensive music theory understanding that I lacked. So, I decided to go back to the basics and learn and study. These genres use a wide variety of chords that as a rock player I had never seen, e.g. notable confusion when trying to play stuff like C#13b5b9. Best way to learn is constant exposure to new chords, some you know, some you haven’t explored before.</p>
-
-<h4 id="libraries">Libraries</h4>
-
-<p>The libraries we are going to use for this are <code class="language-plaintext highlighter-rouge">requests</code>, <code class="language-plaintext highlighter-rouge">bs4</code>, <code class="language-plaintext highlighter-rouge">smtplib</code> and <code class="language-plaintext highlighter-rouge">ssl</code>. If you don’t have any installed, and have <code class="language-plaintext highlighter-rouge">pip</code>, you can run, for example:</p>
-
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">pip</span> <span class="n">install</span> <span class="n">bs4</span>
-</code></pre></div></div>
-:ET
