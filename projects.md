@@ -6,6 +6,10 @@ layout: default
 
 Some small projects I have been working on.
 
+### Chord of the Day
+
+This program sends a daily email with a *Chord of the Day* to a group of subscribers. Everything was built on Python. The script generates a random chord from a set of over 600 combinations (12 root notes + over 50 chord types), uses a Google API to access a Sheet with a list of subscribers, updates it in case there are any unsubscriptions, and uses the `smtplib` and `ssl` libraries to send an email. The code lives in an AWS EC2. You can see my post about it [here](blog/chord_of_the_day.html), and subscribe [here](chord_of_the_day.html).
+
 ### Aeropress Recipe Generator
 
 Inspired by James Hoffman's AeroPress Dice, I developed a website that automatically generates AeroPress recipes. It received hundreds of visits on the day of release and climbed to the top of the Aeropress subreddit. You can try it out [here](AeroPressRecipe.html).
