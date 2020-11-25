@@ -12,6 +12,6 @@ Each email includes the name of the chord, what positions of the major scale con
 
 To subscribe, please follow the instructions below. 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdnaNDYXUnJQhl9URNfU7zzuyrt8Jkk5ZBuw05mVb_AosaXuQ/viewform?embedded=true" width="400" height="371" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdnaNDYXUnJQhl9URNfU7zzuyrt8Jkk5ZBuw05mVb_AosaXuQ/viewform?embedded=true" width="350" height="371" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 If you have some feedback or ideas, I would love to hear them. You can send me an email to <a href="mailto:alvaroaguirre@outlook.com">alvaroaguirre@outlook.com</a>

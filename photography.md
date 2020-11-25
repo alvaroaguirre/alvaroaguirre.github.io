@@ -4,6 +4,8 @@ layout: default
 
 ## Film photography
 
+<small>35mm shot on a late 70s Japanese Pentax K1000 and a 1977 Russian Zorki 4K</small>
+
 <center class = "photo_title" ><i>Jaws</i></center>
 <img class = "photo" src="/photos/jaws.jpeg">
 
