@@ -46,7 +46,7 @@ Some of the beans I enjoyed brewing the most were:
 
 ### How do I brew?
 
-At the moment, I grind my beans using a Comandante C40 MKIII Nitro Blade - Bamboo. I use a plastic V60 01 and 02 with traditional Hario paper filters, and an Aeropress.
+At the moment, I grind my beans using a Comandante C40 MKIII Nitro Blade - Bamboo. I use a plastic V60 01 and 02 with traditional Hario paper filters, and an Aeropress. I use a Fellow EKG.
 
 <img src="https://user-images.githubusercontent.com/29491896/84328473-f2bbae00-ab79-11ea-984b-7609f03980e7.jpg">
 <img src="https://user-images.githubusercontent.com/29491896/84326718-88a10a00-ab75-11ea-8edd-6085b66a3c7e.jpg">

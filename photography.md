@@ -6,6 +6,24 @@ layout: default
 
 <small>35mm shot on a late 70s Japanese Pentax K1000 and a 1977 Russian Zorki 4K</small>
 
+<center class = "photo_title" ><i>Room</i></center>
+<img class = "photo" src="/photos/room.jpeg">
+
+<center class = "photo_title" ><i>Grainy Duck</i></center>
+<img class = "photo" src="/photos/grainy_duck.jpeg">
+
+<center class = "photo_title" ><i>Colors</i></center>
+<img class = "photo" src="/photos/colors.jpeg">
+
+<center class = "photo_title" ><i>Social Distance Bear</i></center>
+<img class = "photo" src="/photos/isolation.jpeg">
+
+<center class = "photo_title" ><i>Leaves</i></center>
+<img class = "photo" src="/photos/leaves.jpeg">
+
+<center class = "photo_title" ><i>Curvy neck</i></center>
+<img class = "photo" src="/photos/swan_neck.jpeg">
+
 <center class = "photo_title" ><i>Jaws</i></center>
 <img class = "photo" src="/photos/jaws.jpeg">
 
