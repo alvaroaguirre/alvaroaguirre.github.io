@@ -6,6 +6,8 @@ layout: default
 
 ### 2020
 
+[Creating a simple Twitter bot with Python](./blog/twitter-bot.html)
+
 [Chord of the Day](./blog/chord_of_the_day.html)
 
 [Getting price changes in your email using BeautifulSoup](./blog/webscrap.html)

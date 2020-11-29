@@ -1,0 +1,58 @@
+I"1<h1 id="creating-a-simple-twitter-bot-with-python">Creating a simple Twitter bot with Python</h1>
+
+<h3 id="alvaro-aguirre---november-2020">Alvaro Aguirre - November, 2020</h3>
+
+<p>In this short post I will share how to create a simple Twitter bot using Python and the <code class="language-plaintext highlighter-rouge">tweepy</code> library. To give you an example, I will share how I created my <em>Chord of the Day</em> bot, which posts a tweet daily with a randomly generated guitar chord.</p>
+
+<h4 id="getting-started---twitter-for-developers">Getting started - Twitter for developers</h4>
+
+<p>You will not only need a Twitter account, but also register in <a href="https://developer.twitter.com/en/apply-for-access">Twitter Developers</a>. This will provide you with an API key that will be necessary to establish the connection using <code class="language-plaintext highlighter-rouge">tweepy</code>.</p>
+
+<p>So head to the page linked above, and apply for a developer account. You will have to provide some information. For example, I selected the option <em>Making a bot</em> when asked what my primary reason for using Twitter developer tools was. Then, you will have to select your country, choose a name for your account, and then fill some information about how you intend to use the developer account.</p>
+
+<p>Once you have a developer account, you will have to create a Project or App. On your Developer Dashboard, you can select to <em>Create an App</em>, and then provide some details like name and description. Then, you should proceed to create the <strong>credentials</strong>. Now that your app is created, you should go into its <em>Details</em>, select the <em>Keys and Tokens</em> tab, where you can <strong>generate</strong> a set of keys. For your bot, you will need:</p>
+
+<ul>
+  <li>API Key</li>
+  <li>API Secret</li>
+  <li>Access token</li>
+  <li>Secret token</li>
+</ul>
+
+<p>And make sure that the last two are generated using the <strong>Read and Write</strong> permissions (by default it will only be <strong>read</strong>, which will limit what your bot can do)</p>
+
+<p>Once you have generated them, store them somewhere safe!</p>
+
+<h4 id="code">Code</h4>
+
+<p>Now let’s get coding, although the <code class="language-plaintext highlighter-rouge">tweepy</code> library does so much that we don’t really have much to do. I will show you the very basics on how to post a simple tweet, but the library allows you to do anything you can think of (like, retweet, follow, etc).</p>
+
+<p>First make sure you have <code class="language-plaintext highlighter-rouge">tweepy</code> installed:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">pip</span> <span class="n">install</span> <span class="n">tweepy</span>
+</code></pre></div></div>
+
+<p>You will also have to include the keys that we mentioned above.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">tweepy</span>
+
+<span class="n">api_key</span> <span class="o">=</span> <span class="s">"INSERT_API_KEY_HERE"</span>
+<span class="n">api_secret</span> <span class="o">=</span> <span class="s">"INSERT_API_SECRET_HERE"</span>
+<span class="n">access_token</span> <span class="o">=</span> <span class="s">"INSERT_ACCESS_TOKEN_HERE"</span>
+<span class="n">secret_token</span> <span class="o">=</span> <span class="s">"INSERT_SECRET_TOKEN_HERE"</span>
+
+<span class="c1"># Authenticate to Twitter using the OAuthHandler method with your API key and secret
+</span><span class="n">auth</span> <span class="o">=</span> <span class="n">tweepy</span><span class="p">.</span><span class="n">OAuthHandler</span><span class="p">(</span><span class="n">api_key</span><span class="p">,</span> <span class="n">api_secret</span><span class="p">)</span>
+
+<span class="c1"># Set the tokens
+</span><span class="n">auth</span><span class="p">.</span><span class="n">set_access_token</span><span class="p">(</span><span class="n">access_token</span><span class="p">,</span> <span class="n">secret_token</span><span class="p">)</span>
+
+<span class="c1"># Now use the API method to authenticate
+</span><span class="n">api</span> <span class="o">=</span> <span class="n">tweepy</span><span class="p">.</span><span class="n">API</span><span class="p">(</span><span class="n">auth</span><span class="p">)</span>
+
+<span class="c1"># We're ready! Now we can post a tweet using update_status()
+</span><span class="n">api</span><span class="p">.</span><span class="n">update_status</span><span class="p">(</span><span class="s">"Hello followers! I am tweeting from my terminal!"</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>Done! Your tweet will have been published! Now you can get creative and schedule the Python program to run at certain times and post whatever you want.</p>
+:ET
