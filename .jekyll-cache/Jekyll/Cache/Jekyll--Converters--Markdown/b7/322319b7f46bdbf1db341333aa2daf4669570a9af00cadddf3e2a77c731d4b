@@ -1,10 +1,10 @@
-I"û<h2 id="home">Home</h2>
+I"<h2 id="home">Home</h2>
 
 <p>Welcome to my personal webpage. Here you will find information about me, what I am up to, the projects I have worked on, and things I am passionate about, like specialty coffee and film photography.</p>
 
 <h3 id="who-am-i-and-what-am-i-up-to">Who am I and what am I up to?</h3>
 
-<p>I am Alvaro. I like data, math, coffee, blues, film photography, and books.</p>
+<p>I am Alvaro. I like data, tech, specialty coffee, film photography, and the guitar.</p>
 
 <p>Currently, I am working as a Quantitative Researcher at the <a href="http://www.systemicrisk.ac.uk" target="_blank">Systemic Risk Centre</a>. My main project nowadays consists on developing algorithms for the early identification and trading of financial bubbles in the US stock market. Other projects include using spectral analysis to study rental price cycles in different European countries, creating teaching and programming material for a postgraduate class at the LSE, and building data frameworks for financial research papers. Most of my work is in R, but some other projects involved using Python, Julia, and MATLAB. <a href="https://voxeu.org/article/which-programming-language-best-economic-research" target="_blank">Here</a> you will find a VOX EU article I wrote with Jon Danielsson about the comparison of these four languages for economic research.</p>
 
