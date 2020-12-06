@@ -32,12 +32,12 @@ Nice, what about the major scale of *D#*? We can easily build it using the 2-2-1
 
 **D#**, E, **F**, F#, **G**, **G#**, A, **A#**, B, **C**, C#, **D**, **D#**
 
-We can also give a number to each element of the major scale. We normally use roman numerals for this. For example, the III of the major scale of *C* is *E*, since it is the third element, starting from the root note. And **this** is what we will use to build chords, the elements of a note's major scale. Let me give you a simple example. A major chord is build using the I-III-V, meaning the first, third, and fifth element of the major scale. So if we wanted to build the major chord of C, we would need *C*, *E*, and *G*. If you play any instrument, you will realize that when you play a *C* chord, all the individual notes you are playing are one of those three. Different combinations create different chords, just to give you a few examples:
+We can also give a number to each element of the major scale. For example, the 3rd of the major scale of *C* is *E*, since it is the third element, starting from the root note. And **this** is what we will use to build chords, the elements of a note's major scale. Let me give you a simple example. A major chord is build using the 1, 3, 5, meaning the first (or root), third, and fifth element of the major scale. So if we wanted to build the major chord of C, we would need *C*, *E*, and *G*. If you play any instrument, you will realize that when you play a *C* chord, all the individual notes you are playing are one of those three. Different combinations create different chords, just to give you a few examples:
 
-* Major chord: I - III - V
-* Minor chord: I - IIIb - V (b means flat)
-* add9: I - III - V - IX
-* 9#11: I - III - V - VIIb - IX - XI# (# means sharp)
+* Major chord: 1 - 3 - 5
+* Minor chord: 1 - b3 - 5 (b means flat)
+* add9: 1 - 3 - 5 - 9
+* 9#11: 1 - 3 - 5 - b7 - 9 - #11 (# means sharp)
 
 Okay, enough talking, let's get to the code
 

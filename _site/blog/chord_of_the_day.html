@@ -28,7 +28,7 @@
 <meta property="og:url" content="http://localhost:4000/blog/chord_of_the_day.html" />
 <meta property="og:site_name" content="Alvaro Aguirre" />
 <script type="application/ld+json">
-{"url":"http://localhost:4000/blog/chord_of_the_day.html","description":"Randomly generating a Chord of the Day with Python","headline":"Alvaro Aguirre","@type":"WebPage","@context":"https://schema.org"}</script>
+{"url":"http://localhost:4000/blog/chord_of_the_day.html","headline":"Alvaro Aguirre","description":"Randomly generating a Chord of the Day with Python","@type":"WebPage","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/css/style.css?v=">
@@ -114,13 +114,13 @@
 
 <p><strong>D#</strong>, E, <strong>F</strong>, F#, <strong>G</strong>, <strong>G#</strong>, A, <strong>A#</strong>, B, <strong>C</strong>, C#, <strong>D</strong>, <strong>D#</strong></p>
 
-<p>We can also give a number to each element of the major scale. We normally use roman numerals for this. For example, the III of the major scale of <em>C</em> is <em>E</em>, since it is the third element, starting from the root note. And <strong>this</strong> is what we will use to build chords, the elements of a note’s major scale. Let me give you a simple example. A major chord is build using the I-III-V, meaning the first, third, and fifth element of the major scale. So if we wanted to build the major chord of C, we would need <em>C</em>, <em>E</em>, and <em>G</em>. If you play any instrument, you will realize that when you play a <em>C</em> chord, all the individual notes you are playing are one of those three. Different combinations create different chords, just to give you a few examples:</p>
+<p>We can also give a number to each element of the major scale. For example, the 3rd of the major scale of <em>C</em> is <em>E</em>, since it is the third element, starting from the root note. And <strong>this</strong> is what we will use to build chords, the elements of a note’s major scale. Let me give you a simple example. A major chord is build using the 1, 3, 5, meaning the first (or root), third, and fifth element of the major scale. So if we wanted to build the major chord of C, we would need <em>C</em>, <em>E</em>, and <em>G</em>. If you play any instrument, you will realize that when you play a <em>C</em> chord, all the individual notes you are playing are one of those three. Different combinations create different chords, just to give you a few examples:</p>
 
 <ul>
-  <li>Major chord: I - III - V</li>
-  <li>Minor chord: I - IIIb - V (b means flat)</li>
-  <li>add9: I - III - V - IX</li>
-  <li>9#11: I - III - V - VIIb - IX - XI# (# means sharp)</li>
+  <li>Major chord: 1 - 3 - 5</li>
+  <li>Minor chord: 1 - b3 - 5 (b means flat)</li>
+  <li>add9: 1 - 3 - 5 - 9</li>
+  <li>9#11: 1 - 3 - 5 - b7 - 9 - #11 (# means sharp)</li>
 </ul>
 
 <p>Okay, enough talking, let’s get to the code</p>
