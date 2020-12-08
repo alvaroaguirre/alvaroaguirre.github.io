@@ -24,5 +24,5 @@ Before Amazon, I worked at a small consulting firm in Madrid doing Econometrics 
 
 ### Contact me
 
-Feel free to send me an email at: <alvaroaguirre@outlook.com>.  
+Feel free to reach me at: <alvaro@alvaroaguirre.com>.  
 You can also find me on [LinkedIn](https://www.linkedin.com/in/alvaro-aguirre/).
