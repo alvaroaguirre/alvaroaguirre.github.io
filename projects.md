@@ -49,7 +49,7 @@ I have always been fascinated by the beauty and aesthetics found in mathematics.
 
 The pieces shown below are (in order):  
 _Unravelling_  
-_Lorenz's Coccon_  
+_Lorenz's Cocoon_  
 _Ikeda's eye_  
 
 ![Sloth](https://user-images.githubusercontent.com/29491896/84319417-e9c1e100-ab67-11ea-8e92-8b2d9449e86e.gif)
