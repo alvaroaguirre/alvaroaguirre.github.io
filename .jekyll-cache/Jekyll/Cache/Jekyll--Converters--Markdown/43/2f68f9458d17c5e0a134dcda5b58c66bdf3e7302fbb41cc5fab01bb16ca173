@@ -1,10 +1,10 @@
-I"U0<h2 id="projects">Projects</h2>
+I"0<h2 id="projects">Projects</h2>
 
 <p>Some small projects I have been working on.</p>
 
 <h3 id="chord-of-the-day">Chord of the Day</h3>
 
-<p>This program sends a daily email with a <em>Chord of the Day</em> to a group of subscribers. Everything was built on Python. The script generates a random chord from a set of over 600 combinations (12 root notes + over 50 chord types), uses a Google API to access a Sheet with a list of subscribers, updates it in case there are any unsubscriptions, and uses the <code class="language-plaintext highlighter-rouge">smtplib</code> and <code class="language-plaintext highlighter-rouge">ssl</code> libraries to send an email. The code lives in an AWS EC2. You can see my post about it <a href="blog/chord_of_the_day.html">here</a>, and subscribe <a href="chord_of_the_day.html">here</a>.</p>
+<p>This program sends a daily email with a <em>Chord of the Day</em> to a group of subscribers. Everything was built on Python. The script generates a random chord from a set of over 600 combinations (12 root notes + over 50 chord types), uses a Google API to access a Sheet with a list of subscribers, updates it in case there are any unsubscriptions, and uses the <code class="language-plaintext highlighter-rouge">smtplib</code> and <code class="language-plaintext highlighter-rouge">ssl</code> libraries to send an email. The code lives in an AWS EC2. You can see my post about it <a href="blog/chord_of_the_day.html">here</a>.</p>
 
 <h3 id="aeropress-recipe-generator">Aeropress Recipe Generator</h3>
 
@@ -45,7 +45,7 @@
 
 <p>The pieces shown below are (in order):<br />
 <em>Unravelling</em><br />
-<em>Lorenz’s Coccon</em><br />
+<em>Lorenz’s Cocoon</em><br />
 <em>Ikeda’s eye</em></p>
 
 <p><img src="https://user-images.githubusercontent.com/29491896/84319417-e9c1e100-ab67-11ea-8e92-8b2d9449e86e.gif" alt="Sloth" /></p>
