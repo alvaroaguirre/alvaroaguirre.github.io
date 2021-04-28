@@ -6,6 +6,24 @@ layout: default
 
 <small>35mm shot on a late 70s Japanese Pentax K1000 and a 1977 Russian Zorki 4K</small>
 
+<center class = "photo_title" ><i>Pink trees</i></center>
+<img class = "photo" src="/photos/pink.jpg">
+
+<center class = "photo_title" ><i>Little plane</i></center>
+<img class = "photo" src="/photos/plane.jpg">
+
+<center class = "photo_title" ><i>Rust</i></center>
+<img class = "photo" src="/photos/dust.jpg">
+
+<center class = "photo_title" ><i>Colón</i></center>
+<img class = "photo" src="/photos/big_head.jpg">
+
+<center class = "photo_title" ><i>Sourdough chronicles</i></center>
+<img class = "photo" src="/photos/bread_line.jpg">
+
+<center class = "photo_title" ><i>Filomena</i></center>
+<img class = "photo" src="/photos/filomena.jpg">
+
 <center class = "photo_title" ><i>Room</i></center>
 <img class = "photo" src="/photos/room.jpeg">
 
