@@ -8,11 +8,11 @@ Welcome to my personal webpage. Here you will find information about me, what I 
 
 ### Who am I and what am I up to?
 
-I am Alvaro. I like data, technology, specialty coffee, film photography, and jazz guitar.
+I am Alvaro. I like data, technology, specialty coffee, film photography, and guitar.
 
-Currently, I am working as an Associate Consultant at <a href = "https://www.bain.com" target = "_blank">Bain & Company.</a> 
+Currently, I am a Senior Business Analyst at <a href = "https://glovoapp.com" target = "_blank">Glovo</a>, using data to connect restaurants and customers.
 
-Previously, I was a Quantitative Researcher at the <a href = "http://www.systemicrisk.ac.uk" target = "_blank">Systemic Risk Centre</a>. My main projects consisted on developing algorithms for the early identification and trading of financial bubbles in the US stock market, programming financial engineering projects for asset pricing using systems of stochastic differential equations, creating teaching and programming material for a postgraduate class at the LSE, and building data frameworks for financial research papers. 
+Previously, I worked as an Associate Consultant at <a href = "https://www.bain.com" target = "_blank">Bain & Company</a>, where I was part of a mechanization project for smallholder farmers in Malawi and Mozambique. Before that, I was a Quantitative Researcher at the <a href = "http://www.systemicrisk.ac.uk" target = "_blank">Systemic Risk Centre</a>. My main projects consisted on developing algorithms for the early identification and trading of financial bubbles in the US stock market, programming financial engineering projects for asset pricing using systems of stochastic differential equations, creating teaching and programming material for a postgraduate class at the LSE, and building data frameworks for financial research papers. 
 
 Most of my work is in R, but some other projects involved using Python, Julia, and MATLAB. <a href = "https://voxeu.org/article/which-programming-language-best-economic-research" target = "_blank">Here</a> you will find a VOX EU article I wrote with Jon Danielsson on the comparison of these four languages for economic research (Most read VOX EU piece for a month after its publication).
 
